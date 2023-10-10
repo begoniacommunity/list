@@ -96,13 +96,12 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [Immersive View.](https://github.com/ohitstom/spicetify-extensions/tree/main/immersiveView) Добавляет кнопку, скрывающую боковые панели, оставляя только текущую открытую страницу.
 * [Scannables.](https://github.com/ohitstom/spicetify-extensions/tree/main/scannables) Сканируемые коды Spotify с мобильной версии клиента, открываются через контекстное меню.
 * [Image Opener.](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Image-Opener) Добавляет возможность открыть картинку с аватарки/облокжи/баннера в полном размере.
-* [Spotify Genres.](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Spotify-Genres) Отображает общие жанры, присущие работам воспроизводимого артиста, в панель плеера.
+* [Show The Genres.](https://github.com/Delusoire/spicetify-extensions/tree/main/extensions/show-the-genres) Отображает общие жанры, присущие работам воспроизводимого артиста, в панели плеера.
 * [Copy Lyrics.](https://github.com/Aimarekin/Aimarekins-Spicetify-Extensions/tree/main/copy-lyrics) Возможность копировать текст песен в режиме Караоке.
 * [Playing Source.](https://github.com/Aimarekin/Aimarekins-Spicetify-Extensions/tree/main/playing-source) Отображение источника воспроизведения (плейлист/радио/из карточки артиста etc.) при наведении на обложку.
 * [Play on YouTube.](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Play-on-YouTube) Автоматически открывает поисковой запрос с названием трека/открывает непосредственно трек (используя ваш ключ API YouTube, читайте на странице расширения).
 * [Copy to Clipboard.](https://github.com/pnthach95/spicetify-extensions) Позволяет копировать название песен.
 * [Seek on scroll.](https://github.com/SunsetTechuila/seekonscroll) Перемотка трека колёсиком мыши по таймлайну.
-* [Spicetify Queue Panel.](https://github.com/kyrie25/spicetify-queue-panel) Переносит очередь воспроизведения в правую панель (там, где отображается Сейчас играет/Лента друзей/Что нового).
 * [Spicetify Stats.](https://github.com/harbassan/spicetify-stats) Отображение статистики, как в [volt.fm.](https://volt.fm) Установка производится [вручную.](https://github.com/harbassan/spicetify-stats#manual-installation)  
 
 2. [SpotX](https://github.com/amd64fox/SpotX) (отключение рекламы для пользователей без Premium и активация экспериментальных функций; установка либо [автоматическая,](https://raw.githack.com/amd64fox/SpotX/main/Install_New_theme.bat) либо через выбор необходимых флагов [вручную](https://github.com/amd64fox/SpotX/discussions/60)).  
