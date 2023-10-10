@@ -330,6 +330,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 **Программы:**
 * [RustDesk.](https://rustdesk.com/) Свободная альтернатива AnyDesk/TeamViewer. Возможен селфхост, но отлично работает и на бесплатных серверах из Германии и Киева.
 * [Hitomi Downloader.](https://github.com/KurtBestor/Hitomi-Downloader) Графический интерфейс для yt-dlp, соответственно, список поддерживаемых сайтов тот же.
+* [Universal Android Debloater.](https://github.com/0x192/universal-android-debloater) Лучший деблоатер для Android. [Функции перечислены здесь,](https://github.com/0x192/universal-android-debloater#features) в дополнение хочется отметить, что для удобства приложения заранее разбиты по готовым категориям (например, безопасные для отключения), а так же почти у каждого пакета есть описание, за что конкретно он отвечает.
 * [Bleachbit.](https://www.bleachbit.org/) Свободный софт по чистке хвостов и мусора по типу CCleaner. Использовать с осторожностью.
 * [Grabber.](https://github.com/Bionus/imgbrd-grabber) Загрузчик картинок и видео с booru-сайтов (rule34, gelbooru, danbooru, safebooru, yande.re и другие).
 * [SauceNAO.](https://f-droid.org/ru/packages/com.luk.saucenao/) Android-клиент [одноимённого сервиса](https://saucenao.com/) для обратного поиска изображений.
