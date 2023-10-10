@@ -234,7 +234,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * *(Android 12<)* [Clipboard Cleaner.](https://f-droid.org/ru/packages/io.github.deweyreed.clipboardcleaner/) Выводит уведомления об операциях приложений/пользователя с буфером обмена, и тоггл в шторку для его очистки.
 * [Memory Guardinan.](https://apt.izzysoft.de/fdroid/index/apk/ara.memoryguardian) Настройка автоочистки буфера обмена.
 * [Total Commander.](https://www.ghisler.com/android.htm) Хороший файловый менеджер и архиватор.
-* [Package Manager.](https://f-droid.org/packages/com.smartpack.packagemanager/) Менеджер установленных приложений, умеет устанавливать сплит-пакеты (.apks, .apkm, и .xapk), быстро переходить к папкам с содержимым конкретных программ, деблоатить системные пакеты и другие функции.
+* [Skit.](https://play.google.com/store/apps/details?id=com.pavelrekun.skit&hl=ru&gl=US) Менеджер установленных приложений. Умеет устанавливать сплит-пакеты, сохранять установленные приложения как .apk/сплит, быстро переходить к папкам с содержимым конкретных программ и другие функции.
 * [RustDesk (Android).](https://github.com/rustdesk/rustdesk/releases/latest) Мобильный клиент указанной выше программы.
 * [Obtainium.](https://github.com/ImranR98/Obtainium) Менеджер обновлений приложений из большого количества вручную настраиваемых истчоников (например GitHub, F-Droid или Huawei AppGallery, полезный для загрузки российских приложений).
 * [F-Droid.](https://f-droid.org/ru/) Крупнейший каталог свободных (FOSS) приложений.
