@@ -54,7 +54,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [AdGuard.](https://adguard.com/ru/welcome.html) Тоже самое, что выше, но с более интуитивным интерфейсом.
 * [SponsorBlock.](https://sponsor.ajay.app/) Автоматически пропускает любые рекламные секции в видео на YouTube. Полностью community-powered, вы можете сами добавлять метки и загружать рекламные секции для пропуска по своему усмотрению.
 * [Track24.](https://chrome.google.com/webstore/detail/track24ru/lfijgegefgcgbfcgjgnhnkclenhfijhk?hl=ru) Удобное расширение для отслеживания посылок в браузере.
-* [Tampermonkey.](https://www.tampermonkey.net/index.php?locale=ru). Реализация работы пользовательских скриптов в вашем браузере. 
+* [Tampermonkey.](https://www.tampermonkey.net/index.php?locale=ru) Реализация работы пользовательских скриптов в вашем браузере. 
 * [ClearURLs.](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) Автоматически очищает URL страницы от трекинг-содержимого.
 * [Voice-Over-Translation.](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) Автоматический закадровый перевод видео в реальном времени, свободный "порт" из Яндекс Браузера. Для работы нужен Tampermonkey! *Нажмите на название расширения, чтобы установить.*
 * [Dark Reader.](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ru) Хорошее расширения для автоматической перекраски сайтов в тёмные тона. Единственное неудобство: нужно вручную отключать его работу для сайтов, где темная тема уже предусмотрена разработчиками, расширение не умеет определять это самостоятельно. В остальном маст-хев, множество настроек.
@@ -266,7 +266,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [Neo Backup.](https://f-droid.org/ru/packages/com.machiav3lli.backup/) Свободный бэкапер. Выборочное резервирование и восстановление одного или нескольких приложений. Работает только с root-правами.
 
 **Модули для Magisk:**
-* [ViPER4Android Repackaged.](https://github.com/programminghoch10/ViPER4AndroidRepackaged) Не требует никаких дополнительных манипуляций с любым устройством. Всё работает, сразу после установки.
+* [ViPER4Android Repackaged.](https://github.com/programminghoch10/ViPER4AndroidRepackaged) Не требует никаких дополнительных манипуляций с любым устройством. Всё работает сразу после установки.
 * [Basic Call Recorder.](https://github.com/chenxiaolong/BCR#readme) Простой рекордер звонков без ненужных фич. Поставил, включил и забыл.
 * [LSPosed.](https://github.com/LSPosed/LSPosed) Наследник мощного фреймворка Xposed, позволяющего внедрять собственный код в приложения во время работы. Имеет встроенный репозиторий с большим количеством полезных модулей.
 * [Zygisk Detach.](https://github.com/j-hc/zygisk-detach) Блокировка автообновления приложений через Google Play путём скрытия их наличия в системе от маркета. Мастхэв при установленном ReVanced rooted-методом.
