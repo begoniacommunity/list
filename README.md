@@ -212,6 +212,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [TikTok Mod от Jaggu.](https://t.me/tiktalkupdate) Обновляется реже и обновления бывают нестабильны (как, например, последняя на момент написания этого текста версия). Сборка, где работает публикация видео без VPN и с применением звука — [27.9.4.](https://t.me/tiktalkupdate/63) 
 
 # :robot: Android
+**Приложения:**
 * [ReVanced Extended.](https://github.com/MatadorProBr/revanced-extended-magisk-module/releases) Включает в себя SponsorBlock, ReturnYoutubeDislikes. Есть как root, так и non-root версии. В том числе для клиента YouTube Music.
 * [PurpleTV.](https://t.me/pubTw) Самая качественная модификация клиента Twitch (ранее называлась TwitchMod).
 * [mcpro24fps.](https://t.me/mcpro24fps) Лучший бесплатный софт для профессиональной (и не очень) видеосъёмки на Android. К огромному удивлению, действительно удобнее и качественнее своих платных аналогов. Отмечу крайнюю легковесность (приложение весит меньше 2 МБ).
@@ -262,6 +263,9 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [Translate You.](https://github.com/you-apps/TranslateYou) Свободное приложение-переводчик, выполненное в Material Design 3. [Поддерживает сразу несколько сервисов](https://github.com/you-apps/TranslateYou#supported-translation-engines) (из наиболее популярных можно выделить DeepL и Reverso).
 * [ReadEra.](https://readera.org/ru) Читалка для всего: fb2, epub, pdf, мсоффис-документы и т.д.
 * [Neo Backup.](https://f-droid.org/ru/packages/com.machiav3lli.backup/) Свободный бэкапер. Выборочное резервирование и восстановление одного или нескольких приложений. Работает только с root-правами.
+
+**Модули для Magisk:**
+* [ViPER4Android Repackaged.](https://github.com/programminghoch10/ViPER4AndroidRepackaged) Не требует никаких дополнительных манипуляций с любым устройством. Всё работает, сразу после установки.
 
 # :information_source: Как скрыть root-доступ
 > [!NOTE]
@@ -336,9 +340,6 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [HakuNeko.](https://hakuneko.download/) Загрузчик манги, поддерживает большое количество источников.
 * [Simplewall.](https://www.henrypp.org/product/simplewall) Настройка трафика с Windows Filtering Platform (WFP).
 * [Tailscale.](https://tailscale.com/) Виртуальная локальная сеть на основе WireGuard без необходимости поднимать свой сервер. Позволяет связать телефон, компьютер и что-либо ещё в единую сеть для различных целей. Важно: не подойдёт для игр, поскольку 1) бывает слишком высокий пинг; 2) на личных почтах в одной сети может быть только один пользователь.
-
-**Модули для Magisk:**
-* [ViPER4Android Repackaged.](https://github.com/programminghoch10/ViPER4AndroidRepackaged) Не требует никаких дополнительных манипуляций с любым устройством. Всё работает, сразу после установки.
 
 **Подборки:**
 * [Огромная подборка свободного софта под разные платформы.](https://github.com/paulaime/awesome-privacy)
