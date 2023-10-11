@@ -2,7 +2,7 @@
 <sup>[от участников /b/egonia community](https://t.me/begoniacommunity) :heartpulse:</sup> 
 
 > [!NOTE]
-> Последнее обновление: 10 октября 2023.
+> Последнее обновление: 11 октября 2023.
 
 > В текущем виде, текст составлялся пользователями с упором на Windows и Android. Под другие платформы перечисленного ниже софта может не быть.  
 
@@ -234,10 +234,13 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * *(Android 12<)* [Clipboard Cleaner.](https://f-droid.org/ru/packages/io.github.deweyreed.clipboardcleaner/) Выводит уведомления об операциях приложений/пользователя с буфером обмена, и тоггл в шторку для его очистки.
 * [Memory Guardinan.](https://apt.izzysoft.de/fdroid/index/apk/ara.memoryguardian) Настройка автоочистки буфера обмена.
 * [Total Commander.](https://www.ghisler.com/android.htm) Хороший файловый менеджер и архиватор.
+* [Shizuku.](https://shizuku.rikka.app/) Предоставление повышенных прав приложениям через adb с помощью локального сервера.
 * [Skit.](https://play.google.com/store/apps/details?id=com.pavelrekun.skit&hl=ru&gl=US) Менеджер установленных приложений. Умеет устанавливать сплит-пакеты, сохранять установленные приложения как .apk/сплит, быстро переходить к папкам с содержимым конкретных программ и другие функции.
-* [RustDesk (Android).](https://github.com/rustdesk/rustdesk/releases/latest) Мобильный клиент указанной выше программы.
+* [Canta.](https://apt.izzysoft.de/fdroid/index/apk/org.samo_lego.canta) Деблоатер любых приложений, не треюует доступа к root (работает через Shizuku).
 * [Obtainium.](https://github.com/ImranR98/Obtainium) Менеджер обновлений приложений из большого количества вручную настраиваемых истчоников (например GitHub, F-Droid или Huawei AppGallery, полезный для загрузки российских приложений).
 * [F-Droid.](https://f-droid.org/ru/) Крупнейший каталог свободных (FOSS) приложений.
+  * Рекомендуемые репозитории:  
+`https://apt.izzysoft.de/fdroid/`
 * [ForPDA.](https://f-droid.org/ru/packages/org.softeg.slartus.forpdaplus/) Альтернативный клиент для 4PDA, если оригинальный чем-то не устраивает.
 * [QuickTiles.](https://f-droid.org/packages/com.asdoi.quicktiles/) Позволяет добавлять готовые или кастомные быстрые тогглы для панели управления. 
 * [CellMapper](https://www.cellmapper.net/apps) & [NetMonster.](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&hl=ru&gl=US) Мониторинг качества и доступности мобильной сети (местоположение вышек и подобное).
