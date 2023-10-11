@@ -252,6 +252,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [iChan.](https://github.com/Zchandev/iChan) Клиент имиджбордов 2ch и 4chan.
 * *(Android 12+)* [Repainter.](https://repainter.app/) Приложения для тонкой настройки вашей Monet-темы. Требуется покупка подписки/единоразовой оплаты лицензии и root-права (за редким исключением ваша прошивка может поддерживать интеграцию с приложением, например, PixelOS/ProtonAOSP для Pixel 4).
 * [PCAPdroid.](https://f-droid.org/ru/packages/com.emanuelef.remote_capture/) Инструмент мониторинга и записи сетевого трафика. Рут-права не для работы необязательны, ибо приложение может работать через локальное VPN-подключение.
+* [Rethink.](https://f-droid.org/ru/packages/com.celzero.bravedns/) Управление трафиком.
 * [Data Monitor.](https://github.com/itsdrnoob/DataMonitor) Статистика использования трафика приложениями.
 * [NekoBox.](https://github.com/MatsuriDayo/NekoBoxForAndroid) Менеджер прокси.
 * [inviZible Pro.](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/) Обход блокировок через сеть Tor и i2p, а также шифрование DNS-запросов с помощью DNSCrypt. 
