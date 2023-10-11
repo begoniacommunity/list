@@ -40,9 +40,7 @@
 * [Free Download Manager.](https://www.freedownloadmanager.org/ru/) Удобный менеджер загрузок. 
 * Ну и конечно база: свободный архиватор [7-Zip,](https://www.7-zip.org/) [Process Hacker 2](https://processhacker.sourceforge.io/downloads.php) (обязательно в полном режиме установки), [Notepad++,](https://notepad-plus-plus.org/downloads/) [qBittorrent,](https://www.fosshub.com/qBittorrent.html) [Mp3tag,](https://www.mp3tag.de/en/download.html) [Rufus.](https://www.mp3tag.de/en/download.html)
 
-# :globe_with_meridians: Браузеры и дополнения к ним
-**Браузеры:**  
-to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот моментик уж *слишком* индивидуальный, потому ищите наиболее близкий себе вариант сами.
+# :globe_with_meridians: Браузерные дополнения
 
 **Расширения:**
 * [uBlock Origin.](https://ublockorigin.com/ru) Самый популярный свободный блокировщик рекламы. В представлении не нуждается.  
@@ -204,6 +202,8 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [Dark Discord.](https://github.com/discord-modifications/dark-discord) Действительно *тёмная* тема. Простая и неброская. [Превью.](https://gibbu.github.io/ThemePreview/?file=https://discord-modifications.github.io/dark-discord/src/source.css) Прямая ссылка: `https://raw.githubusercontent.com/localip/dark-discord/main/DarkDiscord.theme.css`
 * [Fluent Discord.](https://github.com/TakosThings/Fluent-Discord) Тема, выполненная под стиль Microsoft Fluent Design (как в Windows 11). [Превью.](https://raw.githubusercontent.com/TakosThings/Fluent-Discord/develop/images/ui-1.5.5.png)  
 Можно заменить фон приложения на свой (в соответствии с обоями рабочего стола, например). Для этого замените содержимое в скобках параметра `--fluent-acrylic-background: url` на прямую ссылку к картинке.
+* [Material Discord.](https://github.com/CapnKitten/Material-Discord) Тема в стиле Google Material Design 3.  
+`https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css`
 
 # :musical_note: TikTok
 > [!NOTE]
