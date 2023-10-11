@@ -45,7 +45,7 @@
 * [Parabolic.](https://flathub.org/ru/apps/org.nickvision.tubeconverter) GUI для yt-dlp.
 * [Komikku.](https://flathub.org/ru/apps/info.febvre.Komikku) Ридер манги.
 * [Bottles.](https://flathub.org/ru/apps/com.usebottles.bottles) Организатор и менеджер для Wine.
-* [Flatseal.](https://flathub.org/ru/apps/com.github.tchx84.Flatseal) & [Warehouse.](https://flathub.org/ru/apps/io.github.flattool.Warehouse) Управление Flatpak-пакетами.
+* [Flatseal](https://flathub.org/ru/apps/com.github.tchx84.Flatseal) & [Warehouse.](https://flathub.org/ru/apps/io.github.flattool.Warehouse) Управление Flatpak-пакетами.
 * [Carburetor.](https://linuxphoneapps.org/apps/io.frama.tractor.carburetor/) GUI для настройки сети Tor.
 * [Lollypop.](https://flathub.org/ru/apps/org.gnome.Lollypop) Легковесный музыкальный проигрыватель.
 
