@@ -169,7 +169,7 @@
 * [NoProfileThemes.](https://vencord.dev/plugins/NoProfileThemes) Отключает кастомное оформление Nitro-профиля, приводя его к единому стилю с обычным.
 * [NoScreensharePreview.](https://vencord.dev/plugins/NoScreensharePreview) Полная противоположность плагину *BiggerStreamPreview.* Отключает превью стримов.
 * [NoUnblockToJump.](https://vencord.dev/plugins/NoUnblockToJump) Отключает обязательную разблокировку пользователя для перехода на его сообщения.
-* [OnePingPerDM.] При нескольких сообщениях от одного пользователя в ЛС будет звучать лишь одно аудио-оповещение.
+* [OnePingPerDM.](https://vencord.dev/plugins/OnePingPerDM) При нескольких сообщениях от одного пользователя в ЛС будет звучать лишь одно аудио-оповещение.
 * [OpenInApp.](https://vencord.dev/plugins/OnePingPerDM) Открывает ссылки Spotify, Steam и Epic Games в соответствующих приложениях, а не в браузере.
 * [PermissionsViewer.](https://vencord.dev/plugins/PermissionsViewer) Просмотр разрешений, которыми обладает пользователь/канал/роль сервера.
 * [PictureInPicture.](https://vencord.dev/plugins/PictureInPicture) Добавляет режим *"картинка в картинке"* для видео (рядом с кнопкой загрузки).
@@ -232,7 +232,7 @@
 * [NetGuard.](https://github.com/M66B/NetGuard/) Выборочная блокировка доступа к интернету для приложений и ограничение рекламы через hosts, как в приложении выше. Тоже не требует рут, так как работает через локальное VPN-подключение. [Активация Pro-функций.](https://4pda.to/forum/index.php?showtopic=700336&st=1820#entry113141886)
 * [K-9 Mail.](https://k9mail.app/) Простой и свободный почтовый клиент.
 * [Aves.](https://github.com/deckerst/aves) Свободная, очень красивая и функциональная галерея. Поддерживает огромное количество форматов фото/видео, расширенный поиск по медиатеке, сортировку по различным критериям и другие функции. 
-* [Aegis (2FA-аутентификатор).](https://github.com/beemdevelopment/Aegis)  Поддерживает авто-создание бэкапов, вход по биометрии, [установку кастомных иконок](https://aegis-icons.github.io/) (либо своими изображениями) для внесённых сервисов.
+* [Aegis (2FA-аутентификатор).](https://github.com/beemdevelopment/Aegis) Поддерживает авто-создание бэкапов, вход по биометрии, [установку кастомных иконок](https://aegis-icons.github.io/) (либо своими изображениями) для внесённых сервисов.
 * [Photok.](https://f-droid.org/packages/dev.leonlatsch.photok/) Хранение фотографий на устройстве под кодовой защитой с применением шифрования.
 * [Cromite.](https://github.com/uazo/cromite) Форк Bromite [с большим количеством функций.](https://github.com/uazo/cromite#features)
 * [Iceraven.](https://github.com/fork-maintainers/iceraven-browser) Форк Firefox на GeckoView с нормальной поддержкой расширений, чуть более широкой кастомизацией и доступом к флагам (about:config). 
@@ -244,7 +244,7 @@
 * [Total Commander.](https://www.ghisler.com/android.htm) Хороший файловый менеджер и архиватор.
 * [Shizuku.](https://shizuku.rikka.app/) Предоставление повышенных прав приложениям через adb с помощью локального сервера.
 * [Skit.](https://play.google.com/store/apps/details?id=com.pavelrekun.skit&hl=ru&gl=US) Менеджер установленных приложений. Умеет устанавливать сплит-пакеты, сохранять установленные приложения как .apk/сплит, быстро переходить к папкам с содержимым конкретных программ и другие функции.
-* [Canta.](https://apt.izzysoft.de/fdroid/index/apk/org.samo_lego.canta) Деблоатер любых приложений, не треюует доступа к root (работает через Shizuku).
+* [Canta.](https://apt.izzysoft.de/fdroid/index/apk/org.samo_lego.canta) Деблоатер любых приложений, не требует доступа к root (работает через Shizuku).
 * [Obtainium.](https://github.com/ImranR98/Obtainium) Менеджер обновлений приложений из большого количества вручную настраиваемых истчоников (например GitHub, F-Droid или Huawei AppGallery, полезный для загрузки российских приложений).
 * [F-Droid.](https://f-droid.org/ru/) Крупнейший каталог свободных (FOSS) приложений.
   * Рекомендуемые репозитории:  
