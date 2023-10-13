@@ -1,9 +1,6 @@
 **Подборка полезного софта**  
 <sup>[от участников /b/egonia community](https://t.me/begoniacommunity) :heartpulse:</sup> 
 
-> [!NOTE]
-> Последнее обновление: 11 октября 2023.
-
 # :window: Windows  
 > [!NOTE]
 > [Перманентная активация Windows 10-11 с серверной привязкой по железу:](https://github.com/massgravel/Microsoft-Activation-Scripts) открываем PowerShell, запускаем команду `irm massgrave.dev/get | iex`, выбираем **[1] HWID.** Готово.  
@@ -75,7 +72,7 @@
 **Темы:**
 * [Just Black.](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab?hl=ru) Простая и минималистичная тема в тёмных тонах от Google.  
 
-# :notes: Spotify
+# :headphones: Spotify
 **Полезное:**
 * [volt.fm.](https://volt.fm) Сервис сбора и анализа статистики вашего прослушивания. Предоставляет огромное количество полезных данных по жанрам, категориям, промежуткам времени.  
 * [Google-таблица с прямыми ссылками на загрузку оффлайн-установщика всех версий Spotify для Windows.](https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/edit?pli=1#gid=0)
