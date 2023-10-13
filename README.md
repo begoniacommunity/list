@@ -68,6 +68,7 @@
 * [Bing AI Plus.](https://github.com/patrik-martinko/app-bing-ai-plus) Позволяет модифицировать внешний вид страницы чатбота, снимает ограничение на количество символов.
 * [User-Agent Switcher and Manager.](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) Позволяет быстро подменить useragent вашего девайса.
 * [Old Genius (Song Page Switcher).](https://chrome.google.com/webstore/detail/old-genius-song-page-swit/dgdnchkkkknfdahaehnkfifchgnoidjj) Автоматически и без задержек (релоада) возвращает старую версию дизайна страницы текста на Genius.com.
+* [TosDR.](https://github.com/tosdr/browser-extensions) Расширение одноимённого сайта (описание есть в соответствующей категории).
 * [Web Archives.](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab?hl=ru) Быстрый переход к сохранённым копиям сайта/его версиям на archive.org (Wayback Machine).
 * [Enable Right Click & Copy.](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika) Добавляет возможность выделять и копировать текст/контент на сайтах, которые это блокируют. Параметр Enable Copy разрешает копировать текст; Absolute Mode отключает защиту от копирования любого контента.
 
@@ -313,6 +314,7 @@
 
 **Сайты:**
 * [waifu2x.](https://waifu2x.udp.jp/) Быстрый и полностью бесплатный сервис по апскейлу фотографий/артов с открытым исходным кодом.
+* [ToSDR.](https://tosdr.org/) Предосталвяет краткую или расширенную сводку условий использования и приватности различных сайтов, прямым и простым текстом.
 * [Startpage.](https://startpage.com/) Приватный поисковик с неординарной киллер-фичей: анонимный просмотр любых сайтов, суть которого заключается в использовании их собственного прокси. Достаточно нажать на кнопку Anonymous View рядом с результатом поиска и откроется вкладка сайта, прогоняемая через прокси Startpage без дополнительных установок и ожидания.
 * [Discogs.](https://discogs.com/) Огромная база данных о музыке со всего мира (различная информация, варианты релизов, продажа винилов и подобное).
 * [HDRezka.](https://hdrezka.co/) Крупнейший пиратский агрегатор сериалов и фильмов.
