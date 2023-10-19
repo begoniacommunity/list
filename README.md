@@ -50,11 +50,11 @@
 **Расширения:**
 * [uBlock Origin.](https://ublockorigin.com/ru) Самый популярный свободный блокировщик рекламы. В представлении не нуждается.  
 Фильтры для uBlock (рунет):
-> Файл (фильтр) не нужно скачивать. Его надо добавить в лист фильтров расширения, чтобы поддерживались автообновления.  
+> Файл (фильтр) не нужно скачивать. Его надо добавить в Список фильтров расширения, чтобы поддерживались автообновления.  
 
-(RU AdList: BitBlock) `https://easylist-downloads.adblockplus.org/bitblock.txt`  
-(RU AdList: Counters) `https://easylist-downloads.adblockplus.org/cntblock.txt`
-* [AdGuard.](https://adguard.com/ru/welcome.html) Тоже самое, что выше, но с более интуитивным интерфейсом.
+1. (RU AdList: BitBlock) `https://easylist-downloads.adblockplus.org/bitblock.txt`  
+2. (RU AdList: Counters) `https://easylist-downloads.adblockplus.org/cntblock.txt`  
+3. Блокируем Anti-Adblock баннер на [Aternos.org:](https://aternos.org/) uBlock Origin → открываем панель управления (клик по шестерёнке) → Мои фильтры → добавляем `@@||aternos.org^$shide`
 * [SponsorBlock.](https://sponsor.ajay.app/) Автоматически пропускает любые рекламные секции в видео на YouTube. Полностью community-powered, вы можете сами добавлять метки и загружать рекламные секции для пропуска по своему усмотрению.
 * [Track24.](https://chrome.google.com/webstore/detail/track24ru/lfijgegefgcgbfcgjgnhnkclenhfijhk?hl=ru) Удобное расширение для отслеживания посылок в браузере.
 * [Tampermonkey.](https://www.tampermonkey.net/index.php?locale=ru) Реализация работы пользовательских скриптов в вашем браузере. 
@@ -308,6 +308,7 @@
 * [Огромная подборка качественных обоев на Google Фото.](https://photos.google.com/share/AF1QipOIcbtWWVSIYkq21nNYNLOwzCdIhQWlJetX2qT-5XZMQuKinJa8pyboRc9j-gL2aA?pli=1&key=OXI4MUxma3dHUEtoMFJIOEMwQ1JBYWFVY0sxQVZR)
 * [Cursor Colors Synchronizer.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) Синхронизирует цвет акцента системы и курсора.
 * [Icon Archive.](https://iconarchive.com/) Большая и бесплатная библиотека иконок в форматах .ico/.png.
+* Нормальный вид ссылок в десктопном GitHub (убираем подчёркивание): [клик по вашему фото профиля → Settings → Accessibility](https://github.com/settings/accessibility) → Content -> Hide link underlines.
 
 **Сайты:**
 * [waifu2x.](https://waifu2x.udp.jp/) Быстрый и полностью бесплатный сервис по апскейлу фотографий/артов с открытым исходным кодом.
@@ -366,6 +367,6 @@
   1. Инструкция по настройке [WireGuard](https://github.com/angristan/wireguard-install#usage) или [OpenVPN.](https://github.com/angristan/openvpn-install#usage)  
   2. [Outline VPN](https://getoutline.org/ru/get-started) или [Amnezia.](https://amnezia.org/ru) **Строго рекомендуется пользователям из России.**  
 Для Outline следуйте инструкциям в Manager'e, [вот его версия для Android,](https://f-droid.org/ru/packages/org.sirekanyan.outline/) если понадобится. В Amnezia нужно указать авторизационные данные сервера, затем выбрать High censorship lever (OpenVPN over Cloak), а после указать любой зарубежный сайт, не заблокированный РКН.  
-Если хочется чего-то ещё, можете опробовать [Marzban,](https://github.com/Gozargah/Marzban) поддерживающий целый набор современных протоколов. [Интересное чтиво по методам обхода на Хабре.](https://habr.com/ru/articles/727868)
+Если хочется чего-то ещё, можете опробовать [Marzban,](https://github.com/Gozargah/Marzban) поддерживающий целый ряд современных протоколов. [Интересное чтиво по методам обхода на Хабре.](https://habr.com/ru/articles/727868)
 * [FreeOpenVPN.org.](https://www.freeopenvpn.org/) Бесплатные OpenVPN-конфиги разных стран. Нормальная доступность и плавающая скорость. Необходимо раз в 10 часов обновлять пароль для подключения.
 * [АнтиЗапрет.](https://antizapret.prostovpn.org/) Бесплатно, но не слишком полезно ввиду того, что это по сути своей прокси, обходящее блокировки только по реестру РКН. Крайне подвержен блокировкам, [которые уже происходят.](https://ntc.party/t/topic/4269) Есть схожий проект для пользователей из Украины — [ЗаборонаХелп.](https://zaborona.help/)
