@@ -49,6 +49,7 @@
 # :globe_with_meridians: Браузерные дополнения
 **Расширения:**
 * [uBlock Origin.](https://ublockorigin.com/ru) Самый популярный свободный блокировщик рекламы. В представлении не нуждается.  
+
 Фильтры для uBlock (рунет):
 > Файл (фильтр) не нужно скачивать. Его надо добавить в Список фильтров расширения, чтобы поддерживались автообновления.  
 
@@ -57,9 +58,14 @@
 3. Блокируем Anti-Adblock баннер на [Aternos.org:](https://aternos.org/) uBlock Origin → открываем панель управления (клик по шестерёнке) → Мои фильтры → добавляем `@@||aternos.org^$shide`.
 * [SponsorBlock.](https://sponsor.ajay.app/) Автоматически пропускает любые рекламные секции в видео на YouTube. Полностью community-powered, вы можете сами добавлять метки и загружать рекламные секции для пропуска по своему усмотрению.
 * [Track24.](https://chrome.google.com/webstore/detail/track24ru/lfijgegefgcgbfcgjgnhnkclenhfijhk?hl=ru) Удобное расширение для отслеживания посылок в браузере.
-* [Tampermonkey.](https://www.tampermonkey.net/index.php?locale=ru) Реализация работы пользовательских скриптов в вашем браузере. 
+* [Tampermonkey.](https://www.tampermonkey.net/index.php?locale=ru) Реализация работы пользовательских скриптов в вашем браузере.  
+
+Скрипты/расширения под Tampermonkey:  
+<sup>(кликайте по названию для установки; везде поддерживается авто-обновление)</sup>
+1. [AdGuardExtra.](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js) *Блокировка попыток обхода блокировки рекламы...* Да, именно так. Работает для YouTube [и многих других сайтов.](https://github.com/AdguardTeam/AdGuardExtra#websites-where-adguard-extra-can-be-useful)
+2. [Voice-Over-Translation.](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) Автоматический закадровый перевод видео в реальном времени, свободный "порт" из Яндекс Браузера.
+
 * [ClearURLs.](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) Автоматически очищает URL страницы от трекинг-содержимого.
-* [Voice-Over-Translation.](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) Автоматический закадровый перевод видео в реальном времени, свободный "порт" из Яндекс Браузера. Для работы нужен Tampermonkey! *Нажмите на название расширения, чтобы установить.*
 * [Dark Reader.](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ru) Хорошее расширения для автоматической перекраски сайтов в тёмные тона. Единственное неудобство: нужно вручную отключать его работу для сайтов, где темная тема уже предусмотрена разработчиками, расширение не умеет определять это самостоятельно. В остальном маст-хев, множество настроек.
 * [Search by Image.](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) Приятный интерфейс, большое количество сервисов для поиска, можно добавлять свои. Небольшой дополнительный функционал. Пробуйте.
 * [Bing AI Plus.](https://github.com/patrik-martinko/app-bing-ai-plus) Позволяет модифицировать внешний вид страницы чатбота, снимает ограничение на количество символов.
