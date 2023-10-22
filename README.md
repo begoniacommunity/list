@@ -234,7 +234,7 @@
 * [Advanced Download Manager.](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en_US) Менеджер загрузок с поддержкой торрентов.
 * [Material Files.](https://f-droid.org/ru/packages/me.zhanghai.android.files/) Свободная альтернатива Google Files с расширенным функционалом. Поддерживает работу с FTP.
 * *(Android 12<)* [Clipboard Cleaner.](https://f-droid.org/ru/packages/io.github.deweyreed.clipboardcleaner/) Выводит уведомления об операциях приложений/пользователя с буфером обмена, и тоггл в шторку для его очистки.
-* [Memory Guardinan.](https://apt.izzysoft.de/fdroid/index/apk/ara.memoryguardian) Настройка автоочистки буфера обмена.
+* [Memory Guardian.](https://apt.izzysoft.de/fdroid/index/apk/ara.memoryguardian) Настройка автоочистки буфера обмена.
 * [Total Commander.](https://www.ghisler.com/android.htm) Хороший файловый менеджер и архиватор.
 * [Shizuku.](https://shizuku.rikka.app/) Предоставление повышенных прав приложениям через adb с помощью локального сервера.
 * [Skit.](https://play.google.com/store/apps/details?id=com.pavelrekun.skit&hl=ru&gl=US) Менеджер установленных приложений. Умеет устанавливать сплит-пакеты, сохранять установленные приложения как .apk/сплит, быстро переходить к папкам с содержимым конкретных программ и другие функции.
@@ -305,7 +305,7 @@
 * [Огромная подборка качественных обоев на Google Фото.](https://photos.google.com/share/AF1QipOIcbtWWVSIYkq21nNYNLOwzCdIhQWlJetX2qT-5XZMQuKinJa8pyboRc9j-gL2aA?pli=1&key=OXI4MUxma3dHUEtoMFJIOEMwQ1JBYWFVY0sxQVZR)
 * [Cursor Colors Synchronizer.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) Синхронизирует цвет акцента системы и курсора.
 * [Icon Archive.](https://iconarchive.com/) Большая и бесплатная библиотека иконок в форматах .ico/.png.
-* Нормальный вид ссылок в десктопном GitHub (убираем подчёркивание): [клик по вашему фото профиля → Settings → Accessibility](https://github.com/settings/accessibility) → Content -> Hide link underlines.
+* Нормальный вид ссылок в десктопном GitHub (убираем подчёркивание): [клик по вашему фото профиля → Settings → Accessibility](https://github.com/settings/accessibility) → Content → Hide link underlines.
 
 **Сайты:**
 * [waifu2x.](https://waifu2x.udp.jp/) Быстрый и полностью бесплатный сервис по апскейлу фотографий/артов с открытым исходным кодом.
@@ -367,7 +367,8 @@
 Для Outline следуйте инструкциям в Manager'e, [вот его версия для Android,](https://f-droid.org/ru/packages/org.sirekanyan.outline/) если понадобится. В Amnezia нужно указать авторизационные данные сервера, затем выбрать High censorship lever (OpenVPN over Cloak), а после указать любой зарубежный сайт, не заблокированный РКН.  
 Если хочется чего-то ещё, можете опробовать [Marzban,](https://github.com/Gozargah/Marzban) поддерживающий целый ряд современных протоколов. [Интересное чтиво по методам обхода на Хабре.](https://habr.com/ru/articles/727868)
 * [FreeOpenVPN.org.](https://www.freeopenvpn.org/) Бесплатные OpenVPN-конфиги разных стран. Нормальная доступность и плавающая скорость. Необходимо раз в 10 часов обновлять пароль для подключения.
-* [АнтиЗапрет.](https://antizapret.prostovpn.org/) Бесплатно, но не слишком полезно ввиду того, что это по сути своей прокси, обходящее блокировки только по реестру РКН. Крайне подвержен блокировкам, [которые уже происходят.](https://ntc.party/t/topic/4269) Есть схожий проект для пользователей из Украины — [ЗаборонаХелп.](https://zaborona.help/)
+* [АнтиЗапрет.](https://antizapret.prostovpn.org/) Бесплатно, но не слишком полезно ввиду того, что это по сути своей прокси, обходящее блокировки только по реестру РКН. Крайне подвержен блокировкам, [которые уже происходят.](https://ntc.party/t/topic/4269) Есть схожий проект для пользователей из Украины — [ЗаборонаХелп.](https://zaborona.help/)  
+
 **Сообщения:** 
 > На текущий момент, этот раздел позиционируется как "на всякий случай". Указанные приложения не тестировались. Здесь будут перечислены наиболее жизнеспособные методы безопасного общения в реальности, если Чебурнет всё-таки случится.  
 * [Briar.](https://briarproject.org/) Обмен зашифрованными сообщениями через сеть Tor, локальный Wi-Fi или Bluetooth. 
