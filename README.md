@@ -234,7 +234,7 @@
 * [Advanced Download Manager.](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en_US) Менеджер загрузок с поддержкой торрентов.
 * [Material Files.](https://f-droid.org/ru/packages/me.zhanghai.android.files/) Свободная альтернатива Google Files с расширенным функционалом. Поддерживает работу с FTP.
 * *(Android 12<)* [Clipboard Cleaner.](https://f-droid.org/ru/packages/io.github.deweyreed.clipboardcleaner/) Выводит уведомления об операциях приложений/пользователя с буфером обмена, и тоггл в шторку для его очистки.
-* [Memory Guardinan.](https://apt.izzysoft.de/fdroid/index/apk/ara.memoryguardian) Настройка автоочистки буфера обмена.
+* [Memory Guardian.](https://apt.izzysoft.de/fdroid/index/apk/ara.memoryguardian) Настройка автоочистки буфера обмена.
 * [Total Commander.](https://www.ghisler.com/android.htm) Хороший файловый менеджер и архиватор.
 * [Shizuku.](https://shizuku.rikka.app/) Предоставление повышенных прав приложениям через adb с помощью локального сервера.
 * [Skit.](https://play.google.com/store/apps/details?id=com.pavelrekun.skit&hl=ru&gl=US) Менеджер установленных приложений. Умеет устанавливать сплит-пакеты, сохранять установленные приложения как .apk/сплит, быстро переходить к папкам с содержимым конкретных программ и другие функции.
