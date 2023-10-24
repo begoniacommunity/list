@@ -305,7 +305,7 @@
 * [Огромная подборка качественных обоев на Google Фото.](https://photos.google.com/share/AF1QipOIcbtWWVSIYkq21nNYNLOwzCdIhQWlJetX2qT-5XZMQuKinJa8pyboRc9j-gL2aA?pli=1&key=OXI4MUxma3dHUEtoMFJIOEMwQ1JBYWFVY0sxQVZR)
 * [Cursor Colors Synchronizer.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) Синхронизирует цвет акцента системы и курсора.
 * [Icon Archive.](https://iconarchive.com/) Большая и бесплатная библиотека иконок в форматах .ico/.png.
-* Нормальный вид ссылок в десктопном GitHub (убираем подчёркивание): [клик по вашему фото профиля → Settings → Accessibility](https://github.com/settings/accessibility) → Content -> Hide link underlines.
+* Нормальный вид ссылок в десктопном GitHub (убираем подчёркивание): [клик по вашему фото профиля → Settings → Accessibility](https://github.com/settings/accessibility) → Content → Hide link underlines.
 
 **Сайты:**
 * [waifu2x.](https://waifu2x.udp.jp/) Быстрый и полностью бесплатный сервис по апскейлу фотографий/артов с открытым исходным кодом.
