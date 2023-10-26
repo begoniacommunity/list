@@ -1,7 +1,7 @@
 **Подборка полезного софта**  
 <sup>[от участников /b/egonia community](https://t.me/begoniacommunity) :heartpulse:</sup> 
 
-# :window: Windows:  
+# :window: Windows  
 > [!NOTE]
 > [Перманентная активация Windows 10-11 с серверной привязкой по железу:](https://github.com/massgravel/Microsoft-Activation-Scripts) открываем PowerShell, запускаем команду `irm massgrave.dev/get | iex`, выбираем **[1] HWID.** Готово.  
 * [SophiApp.](https://github.com/Sophia-Community/SophiApp) Для тонкой подстройки рабочего окружения под себя. Использует только то, что реализуемо путём задокументированного разработчиками Windows функционала. Никакого пердолинга.
