@@ -271,6 +271,26 @@
 * [Canta.](https://apt.izzysoft.de/fdroid/index/apk/org.samo_lego.canta) Деблоатер любых приложений, не требует доступа к root (работает через Shizuku).
 * [Aurora Store.](https://f-droid.org/ru/packages/com.aurora.store/) FOSS-клиент для Google Play. Не требует авторизации в аккаунт – выбираем анонимную сессию, доступны приложения из всех регионов.
 * [Obtainium.](https://github.com/ImranR98/Obtainium) Менеджер обновлений приложений из большого количества вручную настраиваемых истчоников (например GitHub, F-Droid или Huawei AppGallery, полезный для загрузки российских приложений).
+<details>
+
+<summary>Прямые ссылки на некоторые российские приложения из AppGallery</summary>
+
+Тинькофф: `https://appgallery.huawei.com/app/C101291451`  
+Альфа-Банк: `https://appgallery.huawei.com/app/C101515897`  
+Сбер: `https://appgallery.huawei.com/app/C100994843`  
+ВТБ: `https://appgallery.huawei.com/app/C102312137`  
+ПСБ: `https://appgallery.huawei.com/app/C102409911`  
+Райффайзен: `https://appgallery.huawei.com/app/C101231337`  
+Почта Банк: `https://appgallery.huawei.com/app/C101191061`  
+Газпром Банк: `https://appgallery.huawei.com/app/C102137729`  
+Мегафон: `https://appgallery.huawei.com/app/C101202073`  
+Yota: `https://appgallery.huawei.com/app/C105436239`  
+Тинькофф Мобайл: `https://appgallery.cloud.huawei.com/appdl/C101426731`  
+ЮMoney: `https://appgallery.huawei.com/app/C103046791`  
+QIWI: `https://appgallery.huawei.com/app/C101130485`  
+
+</details>
+
 * [F-Droid.](https://f-droid.org/ru/) Крупнейший каталог свободных (FOSS) приложений.
   * Рекомендуемые репозитории:  
 `https://apt.izzysoft.de/fdroid/`
