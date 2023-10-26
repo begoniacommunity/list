@@ -1,46 +1,6 @@
 **Подборка полезного софта**  
 <sup>[от участников /b/egonia community](https://t.me/begoniacommunity) :heartpulse:</sup> 
 
-Навигация:  
-[https://github.com/begoniacommunity/list/edit/main/README.md#window-windows](Windows)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#-linux](Linux)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#gtk](GTK)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#globe_with_meridians-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F](Браузерные дополнения)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F](Расширения)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%82%D0%B5%D0%BC%D1%8B](Темы)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#headphones-spotify](Spotify)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5](Полезное)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BA](Для ПК)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%82%D0%B5%D0%BC%D1%8B-1](Темы)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F](Расширения и приложения)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%B4%D0%BB%D1%8F-android](Для Android)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#airplane-telegram](Telegram)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BA-1](Для ПК)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%B4%D0%BB%D1%8F-android-1](Для Android)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B](Клиенты)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8](Модули)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#pager-discord](Discord)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BC%D0%BE%D0%B4%D1%8B](Моды)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B](Плагины)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%82%D0%B5%D0%BC%D1%8B-2](Темы)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#musical_note-tiktok](TikTok)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#robot-android](Android)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F](Приложения)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-%D0%B4%D0%BB%D1%8F-magisk](Модули для Magisk)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#information_source-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BA%D1%80%D1%8B%D1%82%D1%8C-root-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF](Как скрыть root-доступ)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#wrench-cli-%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D1%8B](CLI-утилиты)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#stars-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5](Полезное)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5](Визуальное оформление)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%81%D0%B0%D0%B9%D1%82%D1%8B](Сайты)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#telegram-%D0%B1%D0%BE%D1%82%D1%8B](Telegram-боты)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B](Скрипты)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0-windows-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-reg-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B](Модификация интерфейса Windows через .reg-файлы)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B](Программы)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B8](Подборки)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#no_entry_sign-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA](Обход блокировок)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BB%D0%B8-vpn](Альтернативное подключение или VPN)  
-[https://github.com/begoniacommunity/list/edit/main/README.md#%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F](Сообщения)  
-
 # :window: Windows  
 > [!NOTE]
 > [Перманентная активация Windows 10-11 с серверной привязкой по железу:](https://github.com/massgravel/Microsoft-Activation-Scripts) открываем PowerShell, запускаем команду `irm massgrave.dev/get | iex`, выбираем **[1] HWID.** Готово.  
