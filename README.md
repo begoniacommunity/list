@@ -309,6 +309,7 @@ Yota: `https://appgallery.huawei.com/app/C105436239`
 Тинькофф Мобайл: `https://appgallery.cloud.huawei.com/appdl/C101426731`  
 ЮMoney: `https://appgallery.huawei.com/app/C103046791`  
 QIWI: `https://appgallery.huawei.com/app/C101130485`  
+2ГИС: `https://appgallery.huawei.com/app/C100888583`
 
 </details>
 
