@@ -70,6 +70,7 @@
 * [Aves.](https://github.com/deckerst/aves) Свободная, очень красивая и функциональная галерея. Поддерживает огромное количество форматов фото/видео, расширенный поиск по медиатеке, сортировку по различным критериям и другие функции.
 * [Aegis (2FA-аутентификатор).](https://github.com/beemdevelopment/Aegis) Поддерживает авто-создание бэкапов, вход по биометрии, [установку кастомных иконок](https://aegis-icons.github.io/) (либо своими изображениями) для внесённых сервисов.
 * [Photok.](https://f-droid.org/packages/dev.leonlatsch.photok/) Хранение фотографий на устройстве под кодовой защитой с применением шифрования.
+* [Kiwi Browser.](https://kiwibrowser.com/) Поддерживает десктопные расширения для Chrome и ещё [несколько полезных функций.](https://kiwibrowser.com/features/)
 * [Cromite.](https://github.com/uazo/cromite) Форк Bromite [с большим количеством функций.](https://github.com/uazo/cromite#features)
 * [Iceraven.](https://github.com/fork-maintainers/iceraven-browser) Форк Firefox на GeckoView с нормальной поддержкой расширений, чуть более широкой кастомизацией и доступом к флагам (about:config).
 * [HabitKit.](https://play.google.com/store/apps/details?id=com.roehl.habitkit&hl=en_US) Индивидуальный журнал-трекер вашей продуктивности.
