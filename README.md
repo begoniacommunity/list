@@ -511,9 +511,9 @@ P.S. На некоторых прошивках устройство может 
 Если хочется чего-то ещё, можете опробовать [Marzban,](https://github.com/Gozargah/Marzban) поддерживающий целый ряд современных протоколов. [Интересное чтиво по методам обхода на Хабре.](https://habr.com/ru/articles/727868)
 * [FreeOpenVPN.org.](https://freeopenvpn.org/) Бесплатные OpenVPN-конфиги разных стран. Нормальная доступность и плавающая скорость. Необходимо раз в 10 часов обновлять пароль для подключения.
 ### Tor
-[Tor Control Panel.](https://github.com/abysshint/tor-control-panel/blob/main/README.ru.md#readme-top) Windows GUI-клиент для Tor Expert Bundle.
-[Tor Browser.](https://tor.calyxinstitute.org/download/) To be filled. Tor — свободное и открытое программное обеспечение для реализации второго (V2) и третьего (V3) поколения так называемой луковой маршрутизации. Это система прокси-серверов, позволяющая устанавливать анонимное сетевое соединение, защищённое от прослушивания.
-[Tor Bridges.](https://bridges.torproject.org/) Запрос мостов для обхода блокировки сети Tor. 
+* [Tor Control Panel.](https://github.com/abysshint/tor-control-panel/blob/main/README.ru.md#readme-top) Windows GUI-клиент для Tor Expert Bundle.
+* [Tor Browser.](https://tor.calyxinstitute.org/download/) To be filled. Tor — свободное и открытое программное обеспечение для реализации второго (V2) и третьего (V3) поколения так называемой луковой маршрутизации. Это система прокси-серверов, позволяющая устанавливать анонимное сетевое соединение, защищённое от прослушивания.
+* [Tor Bridges.](https://bridges.torproject.org/) Запрос мостов для обхода блокировки сети Tor. 
 > [!NOTE]
 > Также мосты можно получить через email, отправив пустое сообщение на адрес  bridges@torproject.org. (Только для владельцев аккаунтов Gmail и Riseup.)
 
