@@ -165,12 +165,20 @@ QIWI: `https://appgallery.huawei.com/app/C101130485`
 
 </details>
 
+* [Magisk Overlayfs.](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs) Монтирование системных разделов a/b-устройств в Read/Write через overlayfs.
 * [Zygisk Detach.](https://github.com/j-hc/zygisk-detach) Блокировка автообновления приложений через Google Play путём скрытия их наличия в системе от маркета. Мастхэв при установленном ReVanced rooted-методом.
+
+### Специфичные модули для KernelSU
+>
+> [!WARNING]
+> Мы не рекомендуем использовать KernelSU. 
+* [Zygisk Next.](https://github.com/Dr-TSNG/ZygiskNext) Имплементация Zygisk API.
 
 ### Полезное
 * Принудительный запуск оптимизации приложений (бывает полезно в случаях, если сделали клинфлеш с последующей установкой большого количества приложений/обновили версию Android с сохранением данных): 
   1. Если у вас есть root-права: запускаем в Терминале команду `su -c "cmd package bg-dexopt-job"` и ожидаем окончания процесса (будет выведена строка Success).
   2. Если root-прав нет, выполняем `cmd package bg-dexopt-job` через Shizuku или классический `adb shell`.
+  3. *(Экспериментально)* Предкомпиляция байт-кода, принудительное пересоздание уже созданного раннее системой кэша: `pm compile -a -f --check-prof false -m everything; pm compile -a -f --check-prof false --compile-layouts; pm bg-dexopt-job`.
 * [scrspy.](https://github.com/Genymobile/scrcpy) Универсальное решение для захвата экрана, звука или видео с Android-устройства через прямое подключение по USB или Wi-FI.
 
 # :globe_with_meridians: Браузерные дополнения:
