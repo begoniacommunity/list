@@ -112,6 +112,7 @@ QIWI: `https://appgallery.huawei.com/app/C101130485`
 * [F-Droid.](https://f-droid.org/ru/) Крупнейший каталог свободных (FOSS) приложений.
   * Рекомендуемые репозитории:  
 `https://apt.izzysoft.de/fdroid/`
+* [Droid-ify.](https://f-droid.org/packages/com.looker.droidify/) Фронтенд F-Droid, выполненный в стиле Material Design 3. 
 * [ForPDA.](https://f-droid.org/ru/packages/org.softeg.slartus.forpdaplus/) Альтернативный клиент для 4PDA, если оригинальный чем-то не устраивает.
 * [QuickTiles.](https://f-droid.org/packages/com.asdoi.quicktiles/) Позволяет добавлять готовые или кастомные быстрые тогглы для панели управления.
 * [CellMapper](https://cellmapper.net/apps) & [NetMonster.](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&hl=ru&gl=US) Мониторинг качества и доступности мобильной сети (местоположение вышек и подобное).
@@ -173,6 +174,16 @@ QIWI: `https://appgallery.huawei.com/app/C101130485`
 > [!WARNING]
 > Мы не рекомендуем использовать KernelSU. 
 * [Zygisk Next.](https://github.com/Dr-TSNG/ZygiskNext) Имплементация Zygisk API.
+
+### Модификации в системе с помощью Shizuku
+Эти приложения поддерживают работу на устройствах без root-прав!  
+[Автоматический запуск Shizuku после перезагрузки через Automate](https://llamalab.com/automate/community/flows/44848) и [как поставить.](https://www.reddit.com/r/Android/comments/128eak8/comment/jescmhz/?utm_source=share&utm_medium=web2x&context=3)
+* *(Android 12+)* [Better Internet Tiles.](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) Возвращает раздельные тайлы для мобильного интернета и Wi-Fi.
+* [RootlessJamesDSP.](https://github.com/ThePBone/RootlessJamesDSP) Эквалайзер с огромным количеством настроек. Обратывает не весь аудиопоток на устройстве – [есть ограничения.](https://github.com/ThePBone/RootlessJamesDSP#limitations)
+* [LSPatch.](https://github.com/LSPosed/LSPatch) It just works?... Имплементация Xposed API в .apk приложения с дальнейшим управлением модулями через менеджер.
+* [Smartspacer.](https://github.com/KieronQuinn/Smartspacer) Модификация встроенного виджета "Самое главное" (At a Glance) для устройств Pixel.
+* [Pixel VoLTE Patch.](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) Активация VoLTE на устройствах Pixel с процессором Tensor.
+* [aShell.](https://f-droid.org/packages/in.sunilpaulmathew.ashell/) Терминал для ADB Shell с запущенным Shizuku.
 
 ### Полезное
 * Принудительный запуск оптимизации приложений (бывает полезно в случаях, если сделали клинфлеш с последующей установкой большого количества приложений/обновили версию Android с сохранением данных): 
@@ -499,7 +510,7 @@ P.S. На некоторых прошивках устройство может 
 * [Tailscale.](https://tailscale.com/) Виртуальная локальная сеть на основе WireGuard без необходимости поднимать свой сервер. Позволяет связать телефон, компьютер и что-либо ещё в единую сеть для различных целей. Важно: не подойдёт для игр, поскольку 1) бывает слишком высокий пинг; 2) на личных почтах в одной сети может быть только один пользователь.
 
 ### Подборки
-
+* [Awesome Shizuku. Обновляемый список приложений, поддерживающих работу через локальный adb](https://github.com/ThePBone/awesome-shizuku)
 * [Большой список исключительно свободного софта для Android. Некоторые приложения могут быть устаревшими](https://github.com/offa/android-foss)
 * [Огромная подборка свободного софта под разные платформы.](https://github.com/paulaime/awesome-privacy)
 * [Свободные альтернативы базовым приложениям на Android.](https://simplemobiletools.com/)  
@@ -518,6 +529,20 @@ P.S. На некоторых прошивках устройство может 
   2. [Amnezia.](https://amnezia.org/ru) **Строго рекомендуется пользователям из России.**  Инструкция на сайте. Нужно указать авторизационные данные сервера, затем выбрать High censorship lever (OpenVPN over Cloak), а после указать любой зарубежный сайт, не заблокированный РКН.  
 Если хочется чего-то ещё, можете опробовать [Marzban,](https://github.com/Gozargah/Marzban) поддерживающий целый ряд современных протоколов. [Интересное чтиво по методам обхода на Хабре.](https://habr.com/ru/articles/727868)
 * [FreeOpenVPN.org.](https://freeopenvpn.org/) Бесплатные OpenVPN-конфиги разных стран. Нормальная доступность и плавающая скорость. Необходимо раз в 10 часов обновлять пароль для подключения.
+
+### GoodbyeDPI
+Умный обход систем глубокой проверки пакетов (ТСПУ).  
+На текущий момент, **это рекомендуемый компаньон к выходу в Интернет для России** вне использования методов анонимизации и обхода блокировок посредством VPN.  
+1. [Скачиваем последнюю версию GoodbyeDPI со страницы релизов.](https://github.com/ValdikSS/GoodbyeDPI/releases)
+2. Переносим папку в любую точку на диске, откуда впоследствии папку удалять не будем.
+3. Отсюда качаем [update.cmd,](https://github.com/KiGamji/blst/blob/main/update.cmd) запускаем и ждём, пока окно консоли закроется. Или сразу берём готовый файл russia-blacklist.txt. Переносим в раннее скачанную папку, соглашаемся на замену.
+4. В зависимости от ваших предпочтений, от имени администратора запускаем:
+   * `service_install_russia_blacklist.cmd`
+   * `service_install_russia_blacklist_dnsredir.cmd` c перенаправлением DNS-резолвера на DNS Яндекса (крайне рекомендуется!).
+
+Это установит сервис GoodbyeDPI в Windows, он будет запускаться автоматически вместе с системой. Не мешает работе VPN. Чтобы удалить, воспользуйтесь `service_remove.cmd`. 
+Варианты обхода DPI для других платформ тоже существуют – [Linux (zapret),](https://github.com/bol-van/zapret) [Android (DPI Tunnel).](https://github.com/nomoresat/DPITunnel-android)  
+[Больше информации в профильном репозитории.](https://github.com/ValdikSS/GoodbyeDPI#how-to-use)
 
 ### Tor
 Вкратце то, что из себя представляет Tor, можно описать как огромную систему прокси-серверов, позволяющую устанавливать анонимное сетевое соединение из любой точки Интернета.
