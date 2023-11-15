@@ -535,7 +535,9 @@ P.S. На некоторых прошивках устройство может 
 На текущий момент, **это рекомендуемый компаньон к выходу в Интернет для России** вне использования методов анонимизации и обхода блокировок посредством VPN.  
 1. [Скачиваем последнюю версию GoodbyeDPI со страницы релизов.](https://github.com/ValdikSS/GoodbyeDPI/releases)
 2. Переносим папку в любую точку на диске, откуда впоследствии папку удалять не будем.
-3. Отсюда качаем [update.cmd,](https://github.com/KiGamji/blst/blob/main/update.cmd) запускаем и ждём, пока окно консоли закроется. Или сразу берём готовый файл russia-blacklist.txt. Переносим в раннее скачанную папку, соглашаемся на замену.
+3. Берём свежие листы:
+   * Под VPN, заходим по адресу [antizapret.prostovpn.org/domains-export.txt](https://antizapret.prostovpn.org/domains-export.txt) и сохраняем файл в раннее скачанную папку, с именем `russia-blacklist.txt`.
+   * Скачиваем тот же список [с GitHub](https://github.com/KiGamji/blst/blob/main/blacklist.txt) (обновляется ежедневно), далее переименовываем и перемещаем в папку. 
 4. В зависимости от ваших предпочтений, от имени администратора запускаем:
    * `service_install_russia_blacklist.cmd`
    * `service_install_russia_blacklist_dnsredir.cmd` c перенаправлением DNS-резолвера на DNS Яндекса (крайне рекомендуется!).
