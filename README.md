@@ -457,7 +457,7 @@ P.S. На некоторых прошивках устройство может 
 * [Шрифт Inter для системы и Google Sans с часов экрана блокировки.](https://github.com/LeddaZ/inter-font-pack/) Установка на Android 12+ через Magisk. 
 * [Эмодзи из iOS 16.4.](https://github.com/Keinta15/Magisk-iOS-Emoji) Установка на Android 12+ через Magisk. 
 
-### Сайты
+### 
 
 * [waifu2x.](https://waifu2x.udp.jp/) Быстрый и полностью бесплатный сервис по апскейлу фотографий/артов с открытым исходным кодом.
 * [ToSDR.](https://tosdr.org/) Предосталвяет краткую или расширенную сводку условий использования и приватности различных сайтов, прямым и простым текстом.
@@ -469,6 +469,8 @@ P.S. На некоторых прошивках устройство может 
 * [RIPE.](https://apps.db.ripe.net/db-web-ui/query) Дата-база IP-адресов, кому принадлежат и когда были замечены.
 * [MassGrave.](https://massgrave.dev) Да, он указан в начале списка как метод активации. Но помимо того, сайт содержит прямые ссылки на загрузку оригинальных инсталлеров/образов Office или Windows всех языков, различные FAQ и полезности, например, активация других продуктов Microsoft или обход геоблокировки для пользователей из России.
 * [SimpleLogin,](https://simplelogin.io/) [DuckDuckGo Email Protection](https://duckduckgo.com/email/) & [Firefox Relay.](https://relay.firefox.com/) Форвардинг почты.
+* [Repology.](https://repology.org) Поиск пакетов в различных репозиториях Linux систем, также поддерживается поиск в winget, chocolatey и scoop. [Полный список поддерживаемых репозиториев.](https://repology.org/repositories/statistics)
+* [Flathub.](https://flathub.org/ru) Популярный репозиторий свободных и проприетарных программ в формате flatpak.
 
 ### Telegram-боты
 
