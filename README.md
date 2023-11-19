@@ -42,6 +42,7 @@
 
 ### GTK
 
+* [Amberol.](https://apps.gnome.org/ru/Amberol/) Очень красивый и лёгкий музыкальный плеер.
 * [Fragments.](https://flathub.org/ru/apps/de.haeckerfelix.Fragments) Минималистичный торрент-клиент.
 * [Monophony.](https://flathub.org/ru/apps/io.gitlab.zehkira.Monophony) Клиент Youtube Music без рекламы. Можно создавать локальные плейлисты, не требует авторизации в аккаунт.
 * [Parabolic.](https://flathub.org/ru/apps/org.nickvision.tubeconverter) GUI для yt-dlp.
@@ -50,6 +51,12 @@
 * [Flatseal](https://flathub.org/ru/apps/com.github.tchx84.Flatseal) & [Warehouse.](https://flathub.org/ru/apps/io.github.flattool.Warehouse) Управление Flatpak-пакетами.
 * [Carburetor.](https://linuxphoneapps.org/apps/io.frama.tractor.carburetor/) GUI для настройки сети Tor.
 * [Lollypop.](https://flathub.org/ru/apps/org.gnome.Lollypop) Легковесный музыкальный проигрыватель.
+
+## Полезное:
+
+### Репозитории
+* [Flathub.](https://flathub.org/ru) Популярный репозиторий свободных и проприетарных программ в формате [Flatpak.](https://docs.flatpak.org/ru/latest/introduction.html#reasons-to-use-flatpak)
+* [Repology.](https://repology.org) Поиск огромного множества пакетов среди репозиториев Linux-дистрибутивов. Также поддерживается поиск в Winget, Chocolatey и scoop. [Полный список поддерживаемых репозиториев.](https://repology.org/repositories/statistics)
 
 # 🤖 Android:
 
@@ -469,8 +476,6 @@ P.S. На некоторых прошивках устройство может 
 * [RIPE.](https://apps.db.ripe.net/db-web-ui/query) Дата-база IP-адресов, кому принадлежат и когда были замечены.
 * [MassGrave.](https://massgrave.dev) Да, он указан в начале списка как метод активации. Но помимо того, сайт содержит прямые ссылки на загрузку оригинальных инсталлеров/образов Office или Windows всех языков, различные FAQ и полезности, например, активация других продуктов Microsoft или обход геоблокировки для пользователей из России.
 * [SimpleLogin,](https://simplelogin.io/) [DuckDuckGo Email Protection](https://duckduckgo.com/email/) & [Firefox Relay.](https://relay.firefox.com/) Форвардинг почты.
-* [Repology.](https://repology.org) Поиск пакетов в различных репозиториях Linux систем, также поддерживается поиск в winget, chocolatey и scoop. [Полный список поддерживаемых репозиториев.](https://repology.org/repositories/statistics)
-* [Flathub.](https://flathub.org/ru) Популярный репозиторий свободных и проприетарных программ в формате flatpak.
 
 ### Telegram-боты
 
