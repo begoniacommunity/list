@@ -42,6 +42,7 @@
 
 ### GTK
 
+* [Amberol.](https://apps.gnome.org/ru/Amberol/) Очень красивый и лёгкий музыкальный плеер.
 * [Fragments.](https://flathub.org/ru/apps/de.haeckerfelix.Fragments) Минималистичный торрент-клиент.
 * [Monophony.](https://flathub.org/ru/apps/io.gitlab.zehkira.Monophony) Клиент Youtube Music без рекламы. Можно создавать локальные плейлисты, не требует авторизации в аккаунт.
 * [Parabolic.](https://flathub.org/ru/apps/org.nickvision.tubeconverter) GUI для yt-dlp.
@@ -50,6 +51,12 @@
 * [Flatseal](https://flathub.org/ru/apps/com.github.tchx84.Flatseal) & [Warehouse.](https://flathub.org/ru/apps/io.github.flattool.Warehouse) Управление Flatpak-пакетами.
 * [Carburetor.](https://linuxphoneapps.org/apps/io.frama.tractor.carburetor/) GUI для настройки сети Tor.
 * [Lollypop.](https://flathub.org/ru/apps/org.gnome.Lollypop) Легковесный музыкальный проигрыватель.
+
+## Полезное:
+
+### Репозитории
+* [Flathub.](https://flathub.org/ru) Популярный репозиторий свободных и проприетарных программ в формате [Flatpak.](https://docs.flatpak.org/ru/latest/introduction.html#reasons-to-use-flatpak)
+* [Repology.](https://repology.org) Поиск огромного множества пакетов среди репозиториев Linux-дистрибутивов. Также поддерживается поиск в Winget, Chocolatey и scoop. [Полный список поддерживаемых репозиториев.](https://repology.org/repositories/statistics)
 
 # 🤖 Android:
 
@@ -457,7 +464,7 @@ P.S. На некоторых прошивках устройство может 
 * [Шрифт Inter для системы и Google Sans с часов экрана блокировки.](https://github.com/LeddaZ/inter-font-pack/) Установка на Android 12+ через Magisk. 
 * [Эмодзи из iOS 16.4.](https://github.com/Keinta15/Magisk-iOS-Emoji) Установка на Android 12+ через Magisk. 
 
-### Сайты
+### 
 
 * [waifu2x.](https://waifu2x.udp.jp/) Быстрый и полностью бесплатный сервис по апскейлу фотографий/артов с открытым исходным кодом.
 * [ToSDR.](https://tosdr.org/) Предосталвяет краткую или расширенную сводку условий использования и приватности различных сайтов, прямым и простым текстом.
