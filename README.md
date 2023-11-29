@@ -52,8 +52,8 @@
 * [Flatseal](https://flathub.org/ru/apps/com.github.tchx84.Flatseal) & [Warehouse.](https://flathub.org/ru/apps/io.github.flattool.Warehouse) Управление Flatpak-пакетами.
 * [Carburetor.](https://flathub.org/ru/apps/io.frama.tractor.carburetor) GUI для настройки сети Tor.
 * [Lollypop.](https://flathub.org/ru/apps/org.gnome.Lollypop) Легковесный музыкальный проигрыватель.
-* [Fractal.](https://flathub.org/apps/org.gnome.Fractal) Клиент для Matrix написанный на Rust.
-* [Gradience.](https://flathub.org/ru/apps/com.github.GradienceTeam.Gradience) Настройка внешнего вида приложений использующих библиотеку Libadwaita.
+* [Fractal.](https://flathub.org/apps/org.gnome.Fractal) Клиент для Matrix.
+* [Gradience.](https://flathub.org/ru/apps/com.github.GradienceTeam.Gradience) Общесистемная настройка цветовой палитры в приложениях, основанных на libadwaita.
 
 ## Полезное:
 
