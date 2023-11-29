@@ -50,8 +50,10 @@
 * [Komikku.](https://flathub.org/ru/apps/info.febvre.Komikku) Ридер манги.
 * [Bottles.](https://flathub.org/ru/apps/com.usebottles.bottles) Организатор и менеджер для Wine.
 * [Flatseal](https://flathub.org/ru/apps/com.github.tchx84.Flatseal) & [Warehouse.](https://flathub.org/ru/apps/io.github.flattool.Warehouse) Управление Flatpak-пакетами.
-* [Carburetor.](https://linuxphoneapps.org/apps/io.frama.tractor.carburetor/) GUI для настройки сети Tor.
+* [Carburetor.](https://flathub.org/ru/apps/io.frama.tractor.carburetor) GUI для настройки сети Tor.
 * [Lollypop.](https://flathub.org/ru/apps/org.gnome.Lollypop) Легковесный музыкальный проигрыватель.
+* [Fractal.](https://flathub.org/apps/org.gnome.Fractal) Клиент для Matrix.
+* [Gradience.](https://flathub.org/ru/apps/com.github.GradienceTeam.Gradience) Общесистемная настройка цветовой палитры в приложениях, основанных на libadwaita.
 
 ## Полезное:
 
