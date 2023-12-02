@@ -153,6 +153,7 @@ QIWI: `https://appgallery.huawei.com/app/C101130485`
 * [DroidCam.](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=ru&gl=US) Использование камеры и микрофона устройства на ПК. [Клиенты для декстопных платформ.](https://dev47apps.com/)
 * [Neo Backup.](https://f-droid.org/ru/packages/com.machiav3lli.backup/) Свободный бэкапер. Выборочное резервирование и восстановление одного или нескольких приложений. Работает только с root-правами.
 * [Lucky Patcher.](https://4pda.to/forum/index.php?showtopic=298302) Нестареющая классика взлома приложений. Строго рекомендуем не лезть этой утилитой в недра системы, пользуйтесь только для операций с софтом.
+* [Blocker.](https://github.com/lihenggui/blocker) Блокировка компонентов приложений с помощью Intent Firewall. Имеет встроенные списки для массового отключения компонентов аналитики и слежки в других установленных приложениях.
 
 ### Модули для Magisk
 
