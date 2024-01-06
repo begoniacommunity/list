@@ -183,6 +183,7 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 * [Basic Call Recorder.](https://github.com/chenxiaolong/BCR#readme) Простой рекордер звонков без ненужных фич. Поставил, включил и забыл.
 * [LSPosed.](https://github.com/LSPosed/LSPosed) Наследник мощного фреймворка Xposed, позволяющего внедрять собственный код в приложения во время работы. Имеет встроенный репозиторий с большим количеством полезных модулей.
 * [QuickSwitch.](https://github.com/skittles9823/QuickSwitch) Безболезненная замена стандартного лаунчера вместе с провайдером Недавних. 
+* [Mulch SystemWebView Overlay.](https://github.com/A4Alpha/mulch-webview-overlay) Использование свободного WebView из DivestOS в качестве системной имплементации WebView.
 * [GPhotos Unlimited Zygisk.](https://github.com/cuynu/gphotos-unlimited-zygisk) Безлимитное хранилище в Google Фото без потерь качества. 
 * [microG Installer Revived.](https://github.com/nift4/microg_installer_revived) Почти единственный актуальный установщик microG для Magisk. Включает в себя всё для стабильной работы (включая пуши и геолокацию). Если система не поддерживает подмену подписи, активируем её через [этот модуль для LSPosed.](https://github.com/whew-inc/FakeGApps/releases) 
 
