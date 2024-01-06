@@ -215,9 +215,9 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 
 ### [LSPosed](https://github.com/LSPosed/LSPosed/releases)
 Учтите, что работа LSPosed самого по себе, уже может быть обнаружена приложениями. 
-* [Hide My Applist.](https://github.com/Dr-TSNG/Hide-My-Applist/releases) Мощный модуль для скрытия различных приложений в системе полностью или для определённых других приложений.
+* [Hide My Applist.](https://github.com/Dr-TSNG/Hide-My-Applist/releases) Модуль для скрытия приложений.
 <details>
-<summary>Использование для скрытия Root</summary>
+<summary>Hide My Applist: как пользоваться</summary>
 
 1. Скачиваем и устанавливаем Hide My Applist, ерезагружаем устройство.  
 2. Проходим в LSPosed → Модули → активируем Hide My Applist (автоматически поставится галочка на Системный фреймворк). Перезагружаем устройство.  
@@ -226,15 +226,15 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 
 </details>
 
-* [BootloaderSpoofer.](https://github.com/chiteroman/BootloaderSpoofer) Подмена значений заблокированности загрузчика. Позволяет обойти проверки одиночных приложений с несильной защитой. Бесполезно для Play Integrity, потому что в нём проверка идёт на серверах Google.
-* [DisableTargetAPIBlock.](https://github.com/buttercookie42/DisableTargetAPIBlock) В Android 14 было введено новое ограничение на установку приложений, из за которых установщик выдаст ошибку, если target API (целевая версия Android) приложения слишком низок. Этот модуль снимает это ограничение.
-* [Disable FLAG_SECURE.](https://github.com/LSPosed/DisableFlagSecure) Отключает способность приложений обнаруживать и запрещать скриншоты.
-* [No Storage Restrict.](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) Убирает надоедливое "Пожалуйста, выберите другую папку" во встроенном файлпикере.
+* [BootloaderSpoofer.](https://github.com/chiteroman/BootloaderSpoofer) Спуф заблокированного загрузчика. Позволяет обойти ограничения в некоторых приложениях с несерьёзными проверками. Бесполезно для Play Integrity, потому что для него проверка идёт на серверах Google.
+* [DisableTargetAPIBlock.](https://github.com/buttercookie42/DisableTargetAPIBlock) В Android 14 было введено новое ограничение на установку древних приложений, из-за которого установщик выдаст ошибку, если Target API (целевая версия Android) слишком низкая. Этот модуль снимает это ограничение.
+* [Disable FLAG_SECURE.](https://github.com/LSPosed/DisableFlagSecure) Отключает способность приложений обнаруживать и запрещать скриншоты/запись экрана.
+* [No Storage Restrict.](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) Убирает "Пожалуйста, выберите другую папку" во встроенном файлпикере. Читайте описание модуля на профильной странице.
 >
 > [!WARNING]
-> Модули ниже, хоть пока что и не были уличены в чём-то плохом, в любом случае производят инъекции в финансовые приложения! Ничего не мешает разработчику модулей обновить их и начать воровать ваши платёжные данные. Используйте на свой страх и риск.
-* [Sberbank Patcher.](https://modules.lsposed.org/module/ru.bluecat.sberbankpatcher) Различные QOL-изменения в приложении Сбербанка: отключение панелей "Прайма", Ассистента, автообновления, антивируса и т.д.
-* [Mir Pay Security.](https://modules.lsposed.org/module/ru.bluecat.mirpaysecurity) Обход проверок безопасности в приложении Mir Pay. В последнее время часто вызывает только больше проблем, так что используйте только в случае, если скрытия выше не помогают.
+> Эти модули встраиваются в финансовые приложения. Используйте на свой страх и риск!
+* [Sberbank Patcher.](https://modules.lsposed.org/module/ru.bluecat.sberbankpatcher) Различные QOL-изменения в приложении Сбербанка: отключение панелей "Прайма", Ассистента, автообновления, антивируса и прочего шлака.
+* [Mir Pay Security.](https://modules.lsposed.org/module/ru.bluecat.mirpaysecurity) Обход проверок безопасности в приложении Mir Pay. В последнее время часто вызывает только больше проблем, так что используйте только в случае, если нормальное скрытие для вас недоступно или не помогает.
 
 ## Модификации в системе с помощью Shizuku
 Эти приложения поддерживают работу на устройствах без root-прав!  
