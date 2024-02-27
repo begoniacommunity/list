@@ -5,7 +5,7 @@
 Открываем PowerShell, запускаем команду `irm massgrave.dev/get | iex`, выбираем **[1] HWID.** Готово.  
 
 ### ⚙️ Настройка и дополнения к системе
-* [SophiApp.](https://github.com/Sophia-Community/SophiApp) Для тонкой подстройки рабочего окружения под себя. Использует только то, что реализуемо путём задокументированного разработчиками Windows функционала.<sup>[`ℹ️`](https://github.com/Sophia-Community/SophiApp?tab=readme-ov-file#key-features)</sup>
+* [SophiApp.](https://github.com/Sophia-Community/SophiApp) Тонкая подстройка рабочего окружения под себя. Использует только то, что реализуемо путём задокументированного разработчиками Windows функционала.<sup>[`ℹ️`](https://github.com/Sophia-Community/SophiApp?tab=readme-ov-file#key-features)</sup>
 * [VCRHyb64.](https://t.me/begoniacommunity/1310689) Сборник всех устанавливаемых Visual C++ Redistributable 2005-2022, устаналиваются сразу версии x86/x64.
 * [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework)<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/info.md#net-runtime)</sup> и [VCLibs.](https://learn.microsoft.com/ru-ru/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge#how-to-install-and-update-desktop-framework-packages)<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/info.md#vclibs)</sup> Порой нужные зависимости.
 * [SKTimeStamp.](https://tools.stefankueng.com/SKTimeStamp.html) Добавляет раздел для точного изменения времени создания/модификации/открытия через свойства файла в Проводнике.
@@ -15,7 +15,7 @@
 * [Process Hacker 2.](https://processhacker.sourceforge.io/downloads.php) Управление работающими процессами в системе. Расширенная альтернатива диспетчера задач и монитора ресурсов.<sup>[`ℹ️`](https://processhacker.sourceforge.io/)</sup> Строго рекомендуется установка в полном режиме.
 
 ### 🎨 Персонализация
-* [BeautySearch.](https://github.com/krlvm/BeautySearch) Модификация для поиска, встроенного в панели задач. Преимущества указаны на странице программы, они настраиваются вручную при установке.
+* [BeautySearch.](https://github.com/krlvm/BeautySearch) Модификации для поиска, встроенного в панель задач.
 * <sup>`(Windows 10)`</sup>[TrayVolumeControl.](https://github.com/krlvm/TrayVolumeControl) Регулировка громкости колёсиком мыши при наведении курсора на иконку громкости. Быстро привыкаешь и без этого становится неудобно, советую.
 * <sup>`(Windows 10/11 <22H2)`</sup>[EarTrumpet.](https://eartrumpet.app/) Альтернативное меню управления звуком для панели задач. Основная польза в наличии микшера громкости приложений под общим ползунком громкости. Переключение источника звука через ПКМ по иконке.<sup>[превью](https://github.com/begoniacommunity/list/blob/main/list/info.md#eartrumpet)</sup> Так же по умолчанию есть регулировка громкости колёсиком по наведении на иконку, соответственно программа выше не нужна.
 * <sup>`(Windows 11)`</sup>[MicaForEveryone.](https://github.com/MicaForEveryone/MicaForEveryone) Кастомизация внешнего вида окон Win32-приложений. 
@@ -42,8 +42,8 @@
 </details>
  
 * [MSEdgeRedirect.](https://github.com/rcmaehl/MSEdgeRedirect) Кастомизация для панелей новостей, погоды и смена стандартного браузера для переадресации из поиска в системе.
-* [Cursor Colors Synchronizer.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) Синхронизация цвет акцента системы и курсора.
-* [WinPaletter.](https://github.com/Abdelrhman-AK/WinPaletter) Редактор внешнего окружения Windows.<sup>[`ℹ️`](https://github.com/Abdelrhman-AK/WinPaletter#-winpaletter-advanced-windows-appearance-editor)</sup> Относительно не костыльный, потому можем рекомендовать к эксплуатации. Но всё же, будьте аккуратны.
+* [Cursor Colors Synchronizer.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) Синхронизирует цвет акцента системы с [кастомным курсором на выбор.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer#description)
+* [WinPaletter.](https://github.com/Abdelrhman-AK/WinPaletter) Гибкая настройка цветовой палитры различных элементов интерфейса Windows.<sup>[`ℹ️`](https://github.com/Abdelrhman-AK/WinPaletter#-winpaletter-advanced-windows-appearance-editor)</sup>
 
 ### ⏺ Скрин-шеринг, запись экрана и скринрекордеры
 * [RustDesk (Windows).](https://rustdesk.com/) Свободная альтернатива AnyDesk/TeamViewer. Возможен селфхост, но отлично работает и на бесплатных серверах из Германии и Киева.
@@ -54,7 +54,7 @@
 * [Lively Weather.](https://github.com/rocksdanister/weather) Шикарное приложение для прогноза погоды.
 
 ### 🤖 Эмуляция
-* [WSABuilds.](https://github.com/MustardChef/WSABuilds) Подсистема Windows для Android, увидевшая свет с выходом Windows 11. Репозиторий содержит сборки как для Windows 11, так и 10. Есть вариации с OpenGApps/MindTheGApps, Magisk/~~KernelSU~~. И вырезан бесполезный Amazon Store, конечно. Установка проста даже для ёжика — распаковать архив и запустить Run.bat. 
+* [(*EOL*)](https://github.com/microsoft/WSA/commit/5e0b982be3f6a9613d65a389d12554844d931bba) [WSABuilds.](https://github.com/MustardChef/WSABuilds) Подсистема Windows для Android, увидевшая свет с выходом Windows 11. Репозиторий содержит сборки как для Windows 11, так и 10. Есть вариации с OpenGApps/MindTheGApps, Magisk/~~KernelSU~~. И вырезан бесполезный Amazon Store, конечно. Установка проста даже для ёжика — распаковать архив и запустить Run.bat. 
 
 ### 🖼 Медиаконтент
 * [Mp3tag.](https://mp3tag.de/en/download.html) Редактирование метаданных в аудиофайлах.
@@ -195,8 +195,6 @@
 * [Dark Discord.](https://github.com/discord-modifications/dark-discord) Действительно *тёмная* тема. Простая и неброская. [Превью.](https://gibbu.github.io/ThemePreview/?file=https://discord-modifications.github.io/dark-discord/src/source.css) Прямая ссылка: `https://raw.githubusercontent.com/localip/dark-discord/main/DarkDiscord.theme.css`
 * [Fluent Discord.](https://github.com/TakosThings/Fluent-Discord) Тема, выполненная под стиль Microsoft Fluent Design (как в Windows 11). [Превью.](https://raw.githubusercontent.com/TakosThings/Fluent-Discord/develop/images/ui-1.5.5.png)  
 Можно заменить фон приложения на свой (в соответствии с обоями рабочего стола, например). Для этого замените содержимое в скобках параметра `--fluent-acrylic-background: url` на прямую ссылку к картинке.
-* [Material Discord.](https://github.com/CapnKitten/Material-Discord) Тема в стиле Google Material Design 3.  
-`https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css`
 
 ## 🎧 Spotify:
 ### Софт
@@ -205,12 +203,6 @@
      Дальнейшая установка производится в основном только через меню Маркетплейса → Расширения. Этот метод установки подразумевает дальнейшее автоматическое обновление расширений по мере поступления апдейтов.
    * Установка Spicetify добавляет меню экспериментальных функций клиента (не меняя ничего по умолчанию). Используйте осторожно!  
    * Для пользователей без Premium-подписки → [Adblock.](https://github.com/CharlieS1103/spicetify-extensions/blob/main/adblock/README.md)
-
-### Темы
-
-* [Bloom.](https://github.com/nimsandu/spicetify-bloom) Качественная тема для Spotify в стиле Fluent Design из Windows 11. На данный момент находится в процессе глобального обновления. Когда будет готово — смело рекомендуем к установке.
-* [Comfy.](https://github.com/Comfy-Themes/Spicetify) Минималистичная тема с большим количеством цветовых пресетов и настроек.
-* [Ziro.](https://github.com/schnensch0/ziro) Простая, очень плоская тема.  
 
 ### Расширения и приложения
 
@@ -224,8 +216,6 @@
 * [Image Opener.](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Image-Opener) Добавляет возможность открыть картинку с аватарки/облокжи/баннера в полном размере.
 * [Show The Genres.](https://github.com/Delusoire/spicetify-extensions/tree/main/extensions/show-the-genres) Отображает общие жанры, присущие работам воспроизводимого артиста, в панели плеера.
 * [Copy Lyrics.](https://github.com/Aimarekin/Aimarekins-Spicetify-Extensions/tree/main/copy-lyrics) Возможность копировать текст песен в режиме Караоке.
-* [Playing Source.](https://github.com/Aimarekin/Aimarekins-Spicetify-Extensions/tree/main/playing-source) Отображение источника воспроизведения (плейлист/радио/из карточки артиста etc.) при наведении на обложку.
-* [Play on YouTube.](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Play-on-YouTube) Автоматически открывает поисковой запрос с названием трека/открывает непосредственно трек (используя ваш ключ API YouTube, читайте на странице расширения).
 * [Copy to Clipboard.](https://github.com/pnthach95/spicetify-extensions) Позволяет копировать название песен.
 * [Seek on scroll.](https://github.com/SunsetTechuila/seekonscroll) Перемотка трека колёсиком мыши по таймлайну.
 * [Spicetify Stats.](https://github.com/harbassan/spicetify-stats) Отображение статистики, как в [volt.fm.](https://volt.fm) Установка производится [вручную.](https://github.com/harbassan/spicetify-stats#manual-installation)  
@@ -255,11 +245,7 @@
 
 ## ⏹ Скрипты
 
-* [Platform Tools Installer.](https://github.com/SunsetTechuila/Platform-Tools-Installer) Скрипт автоматически скачивает актуальные Platform-tools для вашей платформы, предлагает выбрать место для распаковки, после чего добавляет их в PATH.
+* [Platform Tools Installer.](https://github.com/SunsetTechuila/Platform-Tools-Installer) Скрипт автоматически скачивает актуальные [Platform tools](https://developer.android.com/tools/releases/platform-tools) для вашей платформы, предлагает выбрать место для распаковки, после чего добавляет их в PATH.
 
 ## 🗂 Модификация интерфейса Windows через .reg-файлы
->
-> [!IMPORTANT]
-> Имейте ввиду, что данный метод не самый безопасный и может повлечь за собой визуальные баги и нестабильность оболочки Проводника.
-
 * [Скрыть стрелку с ярлыков на рабочем столе.](https://t.me/begoniacommunity/1384476) Перемещаем файл Blank.ico в корневую папку Windows и запускаем RemoveArrow.bat; перезагружаем Проводник. Чтобы откатить изменения, запускаем RestoreArrow.bat.

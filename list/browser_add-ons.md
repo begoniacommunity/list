@@ -36,3 +36,4 @@
 ### Темы
 
 * [Just Black.](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab?hl=ru) Простая и минималистичная тема в тёмных тонах от Google.  
+* *(Windows 11)* Включаем эффект Mica в Microsoft Edge: переходим по ссылке `edge://flags/#edge-visual-rejuv-mica`, активируем флаг, перезапускаем браузер и идём в Параметры браузера → Внешний вид → включаем появившийся пункт «Показывать визуальные эффекты Windows 11 в строке заголовка и на панели инструментов (предварительная версия)».
