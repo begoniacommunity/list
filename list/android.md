@@ -7,20 +7,26 @@
 * [Мод TikTok от Jaggu.](https://t.me/tiktalkupdate) Рабочий мод. Позволяет выкладывать фото/видео без VPN, менять по необходимости регион (лучше оставить США), включен таймлайн для всех видео. Почти не обновляется и может работать некорректно.
 
 ### 🎧 Музыка
-* [XManager для Spotify.](https://t.me/xManagerUpdates) Подойдёт как для не-Premium, так и для Premium-аккаунтов. В случае с первыми, мод отключает всю аудио/визуальную рекламу, оставляя лишь серверные ограничения на качество воспроизводимого аудио и необходимость в ре-логине каждые 2 недели (если вы не находитесь в регионе, установленном в вашем аккаунте). Для обоих типов пользователей будет полезна активация экспериментальных функций (значок колбочки сверху в менеджере), зачастую среди них много полезного.
+Spotify:
+* [XManager.](https://t.me/xManagerUpdates) Подойдёт как для не-Premium, так и для Premium-аккаунтов. В случае с первыми, мод отключает всю аудио/визуальную рекламу, оставляя лишь серверные ограничения на качество воспроизводимого аудио и необходимость в ре-логине каждые 2 недели (если вы не находитесь в регионе, установленном в вашем аккаунте). Для обоих типов пользователей будет полезна активация экспериментальных функций (значок колбочки сверху в менеджере), зачастую среди них много полезного.
+Локальное аудио:
 * [Auxio.](https://github.com/OxygenCobalt/Auxio) Плеер локальной музыки.
 
 ### 💬 Мессенджеры
-* [exteraGram для Telegram.](https://t.me/exteraGram) Действительно актуальный клиент с большим количеством приятных мелочей и опрятным внешним видом. Присутствует поддержка CameraX внутри всего приложения. В том числе для видеосообщений. Ещё, во время их записи можно включать подсветку/вспышку; есть режим статичного зума. Редизайн встроенного аудиоплеера, есть ручная настройка закругления элементов, три вариации тем Monet для устройств с Android 12+, набор UI-иконок [Solar,](https://t.me/Design480/358) центрирование заголовка в списке чатов и изменение его названия, изменение стиля папок (так же можно включить иконки, синхронизируемые с десктопной версией) и категорий по всему приложению. Увеличение скорости загрузки/выгрузки файлов, активация нового сжатия изображений (2560px). Можно скрыть плитку камеры в меню скрепки, скрывать клавиатуру жестом в области чата, бесконечные недавние стикеры. Можно добавить ключ OpenAI ChatGPT и генерировать ответы прямо в области ввода. [Обновляется (пока что) только здесь.](https://t.me/exteraGramCI)
-* [AyuGram4A для Telegram.](https://github.com/AyuGram/AyuGram4A) Форк exteraGram с функциями из одноимённого настольного клиента. Дополнительно можно выделить разрешенные скриншоты в секретных чатах и сохранение чатов, из которых вы были исключены. [Обновления здесь.](https://t.me/ayugramchat/1238)
-* [Cherrygram.](https://t.me/Cherry_gram) exteraGram с дизайном похуже. Зато своевременно обновляется и [регулярно публикует исходный код.](https://github.com/arsLan4k1390/Cherrygram)
-* [Nnngram](https://t.me/Nnngram) Доведённый до ума (по мере возможности) форк [Nullgram.](https://github.com/qwq233/Nullgram) Это клиент, совмещающий в себе функционал от привычного [Nekogram,](https://t.me/NekoUpdates) одноимённой X-версии [без китайских странностей](https://github.com/PreviousAlone/Nnngram#why-nullgram) и некоторые свои полезные дополнения.
-* [Plus](https://t.me/PlusMessengerUpdates) Адово напердоленный чем только можно клиент. Идейный собрат ныне покойного [BGram.](https://t.me/BGramChannel) По насранности миллиардом разных настроек не имеет конкурентов. На соответствующего любителя.  
+Telegram:
+* [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) или [exteraGram.](https://t.me/exteraGramCI)
+* [AyuGram4A для Telegram.](https://github.com/AyuGram/AyuGram4A)
+* [Nagram.](https://t.me/nagram_channel) Это клиент, совмещающий в себе функционал от привычного [Nekogram,](https://t.me/NekoUpdates) одноимённой X-версии [без китайских странностей](https://github.com/PreviousAlone/Nnngram#why-nullgram) и некоторые свои полезные дополнения.
 
 Ещё есть модуль [Killergram](https://github.com/AetherMagee/Killergram) для LSPosed, он совместим [с почти всеми клиентами.](https://github.com/AetherMagee/Killergram#support-clients) Убирает рекламу из каналов, расширяет лимит на количество аккаунтов и разрешает локальное копирование контента из чатов и каналов, где это запрещено.
-* [Vendetta для Discord.](https://github.com/vendetta-mod/Vendetta) Работает по аналогии с Vencord<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/windows.md#-discord)</sup>, только на телефоне. Удобнее устаналивать через [Vendetta Manager.](https://github.com/vendetta-mod/VendettaManager) Запускается сильно дольше немодифицированного клиента.  
+
+Discord:
+* [Vendetta.](https://github.com/vendetta-mod/Vendetta) Работает по аналогии с Vencord<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/windows.md#-discord)</sup>, только на телефоне. Удобнее устаналивать через [Vendetta Manager.](https://github.com/vendetta-mod/VendettaManager) Запускается сильно дольше немодифицированного клиента.  
 [Плагины и темы можно найти здесь.](https://github.com/topics/vendetta-plugins)
+
+Matrix: 
 * [Element для Matrix.](https://element.io/download) Вполне удобный клиент, явно лучший среди существующих под платформу.
+* [Fluffy Chat.](https://github.com/krille-chan/fluffychat) 
 
 ### ⌛️ Блокировка рекламы
 * [AdAway.](https://github.com/AdAway/AdAway) Блокировка рекламы через локальные hosts-файлы подключением к VPN (т.е. root-доступ не нужен). Готовые списки можно взять [здесь.](https://4pda.to/forum/index.php?showtopic=275091&st=8000#entry89665467)
@@ -30,7 +36,7 @@
 * [K-9 Mail.](https://k9mail.app/) Простой почтовый клиент.
 
 ### 🛡 Безопасность и пароли
-* 2FA-аутентификация: [Authenticator Pro (MD3)](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro) и [Aegis (MD2).](https://github.com/beemdevelopment/Aegis) 
+* 2FA-аутентификация: [Authenticator Pro](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro) или [Aegis.](https://github.com/beemdevelopment/Aegis) 
 * [KeePassDX.](https://github.com/Kunzisoft/KeePassDX) Локальное хранение паролей в зашифрованном виде с унифицированным форматом дата-баз KeePass.
 * [Samourai Wallet.](https://samouraiwallet.com/) Анонимный криптокошелёк, не требующий идентификации личности.
 
@@ -84,7 +90,8 @@
 ### 🎦 Видеосъёмка
 * [mcpro24fps.](https://t.me/mcpro24fps) Лучший бесплатный софт для профессиональной (и не очень) видеосъёмки на Android. К огромному удивлению, действительно удобнее и качественнее своих платных аналогов. Отмечу крайнюю легковесность, приложение весит меньше 2 МБ.
 
-### 📷 Веб-камера
+### 📷 Веб-камера и микрофон
+* [VO Mic.](https://wolicheng.com/womic/) Используйте свой телефон как микрофон для ПК.
 * [DroidCam.](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=ru&gl=US) Использование камеры и микрофона устройства на ПК. [Клиенты для декстопных платформ.](https://dev47apps.com/)
 
 ### ⚙️ Управление приложениями
@@ -103,6 +110,7 @@
 <summary>Прямые ссылки на некоторые российские приложения из AppGallery</summary>
 
 Тинькофф: `https://appgallery.huawei.com/app/C101291451`  
+Mir Pay: `https://appgallery.huawei.com/app/C103191567`  
 Альфа-Банк: `https://appgallery.huawei.com/app/C101515897`  
 Сбер: `https://appgallery.huawei.com/app/C100994843`  
 ВТБ: `https://appgallery.huawei.com/app/C102312137`  
@@ -112,11 +120,10 @@
 Газпром Банк: `https://appgallery.huawei.com/app/C102137729`  
 Мегафон: `https://appgallery.huawei.com/app/C101202073`  
 Yota: `https://appgallery.huawei.com/app/C105436239`  
-Тинькофф Мобайл: `https://appgallery.huawei.com/app/C101426731`  
 ЮMoney: `https://appgallery.huawei.com/app/C103046791`  
-QIWI: `https://appgallery.huawei.com/app/C101130485`  
-2ГИС: `https://appgallery.huawei.com/app/C100888583`
-Mir Pay: `https://appgallery.huawei.com/app/C103191567`
+2ГИС: `https://appgallery.huawei.com/app/C100888583`  
+OZON: `https://appgallery.huawei.com/app/C100847609`  
+Wildberries: `https://appgallery.huawei.com/app/C101183325`
 
 </details>
 
@@ -163,25 +170,16 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 
 ### Kitsune Mask (Magisk Delta)
 
-1. Используем Kitsune Mask версии 26.4 Stable. Загрузить установщик можно с [официальной страницы.](https://huskydg.github.io/magisk-files/main.html) 
+1. Используем [Kitsune Mask (app-release.apk).](https://github.com/HuskyDG/magisk-files/releases)
 2. В настройках Kitsune Mask пересобираем приложение с рандомным именем пакета, включаем Zygisk и MagiskHide (ещё опционально можно включить биометрическую аутентификацию, для вашего удобства).
 3. Настраиваем скрытие:
    * настроить Hide (рекомендуется). В списке выбираем приложения, от которых нужно скрыть доступ к рут-правам (в них все модули будут размонтированы).
    * использовать SuList. Включаем одноименную настройку, а в списке выбираем приложения, которые будут иметь доступ рут-правам и смогут их запросить. **Этот вариант несовместим с некоторыми модулями.**
-4. Устанавливаем модуль [Shamiko.](https://github.com/LSPosed/LSPosed.github.io/releases)  
-5. Перезагружаем устройство. 
 ### KernelSU
 1. Установите [KernelSU](https://kernelsu.org/) и его менеджер любым доступным для вас способом.
 2. В KSU Менеджере, последовательно установите модули [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases) и [Shamiko.](https://github.com/LSPosed/LSPosed.github.io/releases)
 3. Перейдите во вкладку Суперпользователь и выберите приложения, которые должны иметь доступ к рут-правам. 
 Менеджер лучше удалить из системы, когда он не используется.
-
-<details>
-<summary>KernelSU: альтернативный вариант</summary> 
-
-Если что-то пошло не так/сломалось/работает некорректно после установки KernelSU (что случается крайне редко, скорее не случается вовсе), перейдите в настройки Менеджера и отключите параметр "Размонтировать модули по умолчанию". После этого, во вкладке Суперпользователь, проставьте App Profile – "Пользовательский" для всех приложений, от которых нужно скрыть рут-права.
-
-</details>
 
 ## Модули:
 
@@ -202,13 +200,13 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 Действия производим после установки модуля.  
 Не проверял, работает ли синхроинзация уже после входа в аккаунт, но должна. В противном случае просто перелогиньтесь.
 
-1. Скачиваем последние версии [Google Contacts Sync](https://apkmirror.com/apk/google-inc/google-contacts-sync/) и [Google Calendar Sync.](https://apkmirror.com/apk/google-inc/google-calendar-sync/) Переименовываем файлы в `GoogleContactsSyncAdapter.apk` и `GoogleCalendarSyncAdapter.apk`.
+1. Скачиваем последние версии [Google Contacts Sync](https://apkmirror.com/apk/google-inc/google-contacts-sync/) и [Google Calendar Sync](https://apkmirror.com/apk/google-inc/google-calendar-sync/) для вашей версии Android. Переименовываем файлы в `GoogleContactsSyncAdapter.apk` и `GoogleCalendarSyncAdapter.apk`.
 2. Проходим по пути `/data/adb/modules/microg_revived/system/app` и создаём две одноименные папки (`GoogleContactsSyncAdapter` и `GoogleCalendarSyncAdapter`). 
 3. Переносим файлы соответственно. Каждому файлу выдаём права (chmod) 0644. Перезагружаем систему, идём в настройки приложений и выдаём им все запрашиваемые разрешения. 
 
 </details>
 
-* [Magisk Overlayfs.](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs) Монтирование системных разделов a/b-устройств в Read/Write через overlayfs.
+* [Magisk Overlayfs.](https://github.com/HuskyDG/magic_overlayfs) Монтирование системных разделов a/b-устройств в Read/Write через overlayfs.
 
 <details>
 
@@ -227,13 +225,13 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 Визуальное оформление:
 > 
 > [!NOTE]
-Рекомендую устанавливать шрифты вручную (заменой файлов и выставлением прав – 0644) с использованием OverlayFS. В противном случае эмодзи не будут заменены в тех приложениях, от которых вы скрываете root-права.
+Если вы не обновляете систему поверх/делаете это крайне редко, рекомендую устанавливать шрифты и эмодзи вручную (заменой файлов и выставлением прав 0644) с использованием OverlayFS. В противном случае эмодзи не будут заменены в тех приложениях, от которых вы скрываете root-права.
 
 * <sup>`(Android 12+)`</sup>[Шрифт Inter.](https://github.com/LeddaZ/inter-font-pack/)<sup>[`ℹ️`](https://rsms.me/inter/)</sup> 
 * <sup>`(Android 12+)`</sup>[Эмодзи из iOS 16.4.](https://github.com/Keinta15/Magisk-iOS-Emoji)<sup>[`ℹ️`](https://emojipedia.org/apple)</sup>
 
 ### [LSPosed](https://github.com/LSPosed/LSPosed/releases)
-Учтите, что работа LSPosed самого по себе, уже может быть обнаружена приложениями. 
+Учтите, что работа LSPosed самого по себе, уже может быть обнаружена приложениями. Разработка и поддержка LSPosed прекращена – он будет работать до тех пор, пока не сломается в связи с теми или иными обстоятельствам.
 * [Hide My Applist.](https://github.com/Dr-TSNG/Hide-My-Applist/releases) Модуль для скрытия приложений.
 <details>
 <summary>Hide My Applist: как пользоваться</summary>
@@ -272,7 +270,7 @@ Mir Pay: `https://appgallery.huawei.com/app/C103191567`
 * Принудительный запуск оптимизации приложений (бывает полезно в случаях, если сделали клинфлеш с последующей установкой большого количества приложений/обновили версию Android с сохранением данных): 
   1. Если у вас есть root-права: запускаем в Терминале команду `su -c "cmd package bg-dexopt-job"` и ожидаем окончания процесса (будет выведена строка Success).
   2. Если root-прав нет, выполняем `cmd package bg-dexopt-job` через Shizuku или классический `adb shell`.
-  3. *(Экспериментально)* Предкомпиляция байт-кода, принудительное пересоздание уже созданного раннее системой кэша: `pm compile -a -f -m everything; cmd package bg-dexopt-job`.
+  3. Предкомпиляция байт-кода, принудительное пересоздание уже созданного раннее системой кэша: `pm compile -a -f -m everything; cmd package bg-dexopt-job` (рекомендуется).
 * [scrspy.](https://github.com/Genymobile/scrcpy) Универсальное решение для захвата экрана, звука или видео с Android-устройства через прямое подключение по USB или Wi-Fi.
 * [Universal Android Debloater.](https://github.com/0x192/universal-android-debloater) Лучший деблоатер для Android. [Функции перечислены здесь,](https://github.com/0x192/universal-android-debloater#features) в дополнение хочется отметить, что для удобства приложения заранее разбиты по готовым категориям (например, безопасные для отключения), а так же почти у каждого пакета есть описание, за что конкретно он отвечает.
 
