@@ -41,6 +41,8 @@
    5. Принудительно перезагружаем Проводник.
 </details>
  
+* [Windhawk.](https://github.com/ramensoftware/windhawk) Имплементация инъекций и хукинга в Windows.
+  * [Windows 11 Start Menu Styling.](https://github.com/ramensoftware/windows-11-start-menu-styling-guide) [Различные стили](https://github.com/ramensoftware/windows-11-start-menu-styling-guide#themes) для меню Пуска в Windows 11. Например, скрываюший секцию "Рекомендаций" или добавляющий разметку с закрепленными приложениями и списком всех приложений. [Инструкция.](https://github.com/ramensoftware/windows-11-start-menu-styling-guide#introduction)
 * [MSEdgeRedirect.](https://github.com/rcmaehl/MSEdgeRedirect) Кастомизация для панелей новостей, погоды и смена стандартного браузера для переадресации из поиска в системе.
 * [Cursor Colors Synchronizer.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) Синхронизирует цвет акцента системы с [кастомным курсором на выбор.](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer#description)
 * [WinPaletter.](https://github.com/Abdelrhman-AK/WinPaletter) Гибкая настройка цветовой палитры различных элементов интерфейса Windows.<sup>[`ℹ️`](https://github.com/Abdelrhman-AK/WinPaletter#-winpaletter-advanced-windows-appearance-editor)</sup>
