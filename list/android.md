@@ -180,7 +180,8 @@ Wildberries: `https://appgallery.huawei.com/app/C101183325` (доступно в
 * [QuickSwitch.](https://github.com/skittles9823/QuickSwitch) Безболезненная замена стандартного лаунчера вместе с провайдером Недавних. 
   * Рекомендуется использовать в связке с [Lawnchair.](https://t.me/lawnchairci)
 * [Mulch SystemWebView Overlay.](https://github.com/A4Alpha/mulch-webview-overlay) Использование свободного WebView из DivestOS в качестве системной имплементации WebView.
-* [GPhotos Unlimited Zygisk.](https://gitlab.com/cuynu/gphotos-unlimited-zygisk/-/releases) Безлимитное хранилище в Google Фото без потерь качества. 
+* [GPhotos Unlimited Zygisk.](https://gitlab.com/cuynu/gphotos-unlimited-zygisk/-/releases) Безлимитное хранилище в Google Фото без потерь качества.
+* [Disable logging.](https://github.com/begoniacommunity/list/tree/magisk-modules#disable-logging) Безопасное отключение логгирования на разных уровнях.
 * [microG Installer Revived.](https://github.com/nift4/microg_installer_revived) Почти единственный актуальный установщик microG для Magisk. Включает в себя всё для стабильной работы (включая пуши и геолокацию). Если система не поддерживает подмену подписи, активируем её через [этот модуль для LSPosed.](https://github.com/whew-inc/FakeGApps/releases) LineageOS и базирующиеся на ней прошивки поддерживают её "из коробки".
 
 >
