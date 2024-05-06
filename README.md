@@ -6,7 +6,7 @@
 
 ## Навигация по спискам:
 [🪟 Windows](./list/windows.md)  
-[🐧 Linux](./list/inux.md) 
+[🐧 Linux](./list/linux.md) 
 ___
 [🤖 Android](./list/android.md)  
 [🥷 Скрытие модификаций в Android](./list/hide_root_android.md)  
