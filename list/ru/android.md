@@ -166,6 +166,7 @@ Wildberries: `https://appgallery.huawei.com/app/C101183325` (доступно в
 * [QuickTiles.](https://f-droid.org/packages/com.asdoi.quicktiles/) Позволяет добавлять готовые или кастомные быстрые тогглы для панели управления.
 * [Shortcut Maker.](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker&hl=en_US) Приложение для создания ярлыков, но основное его применение, найденное сообществом — автоматическая генерация Monet-иконок для приложений, не поддерживающих это по умолчанию. Работает в 9/10 случаев. Либо можно выбирать иконки из стороннего иконпака. Анимации запуска/сворачивания ярлыка идентичные приложению, если у вас Android 12L+.
 * [MacroDroid.](https://macrodroid.com/) Автоматизация действий на Android.
+* [LinkSheet.](https://github.com/LinkSheet/LinkSheet) Возвращает меню выбора приложения, которое откроет ссылку.
 * [Blocker.](https://github.com/lihenggui/blocker) Блокировка компонентов приложений с помощью Intent Firewall. Имеет встроенные списки для массового отключения компонентов аналитики и слежки в других установленных приложениях.
 * [OwnDroid.](https://apt.izzysoft.de/fdroid/index/apk/com.bintianqi.owndroid) Управление функциями системы от имени владельца (админа).
 * [aShell.](https://f-droid.org/packages/in.sunilpaulmathew.ashell/) Терминал для ADB Shell с запущенным Shizuku.
@@ -236,7 +237,8 @@ Wildberries: `https://appgallery.huawei.com/app/C101183325` (доступно в
 
 ### Модули для LSPosed
 
-* <sup>`(Android 14+)`</sup>[DisableTargetAPIBlock.](https://github.com/buttercookie42/DisableTargetAPIBlock) В Android 14 было введено новое ограничение на установку древних приложений, из-за которого установщик выдаст ошибку, если Target API (целевая версия Android) слишком низкая. Этот модуль снимает это ограничение.
+* <sup>`(Android 14+)`</sup> [DisableTargetAPIBlock.](https://github.com/buttercookie42/DisableTargetAPIBlock) В Android 14 было введено новое ограничение на установку древних приложений, из-за которого установщик выдаст ошибку, если Target API (целевая версия Android) слишком низкая. Этот модуль снимает это ограничение.
+* <sup>`(Android 14+)`</sup> [CaptureSposed.](https://github.com/99keshav99/CaptureSposed) Отключает API обнаружения скриншотов приложениями.<sup>[`ℹ️`](https://github.com/99keshav99/CaptureSposed#capturesposed)</sup> 
 * [Disable FLAG_SECURE.](https://github.com/LSPosed/DisableFlagSecure) Отключает способность приложений обнаруживать и запрещать скриншоты/запись экрана.
 * [Pixelify GPhotos.](https://github.com/BaltiApps/Pixelify-Google-Photos) Спуф устройства под Pixel XL для безлимитного копирования фотографий в исходном качестве. Применяется исключительно к приложению Google Фото.
 
