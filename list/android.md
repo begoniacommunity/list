@@ -25,10 +25,6 @@ Telegram:
 
 <sup>`(LSPosed/LSPatch)`</sup> [Killergram Neo.](https://github.com/AetherMagee/KillergramNeo/tags) Модуль для всех актуальных клиентов Telegram. Опционально позволяет заменить стоковые иконки интерфейса в приложении на Solar, скрыть инстории, **отключить автовоспроизведение медиа по кнопке громкости**, удалить рекламу из каналов, разрешить пересылку из защищенный каналов, снять лимит на количество аккаунтов в приложении.
 
-Discord:
-* [Vendetta.](https://github.com/vendetta-mod/Vendetta) Работает по аналогии с Vencord<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/windows.md#-discord)</sup>, только на телефоне. Удобнее устаналивать через [Vendetta Manager.](https://github.com/vendetta-mod/VendettaManager) Запускается сильно дольше немодифицированного клиента.  
-[Плагины и темы можно найти здесь.](https://github.com/topics/vendetta-plugins)
-
 Matrix: 
 * [Element для Matrix.](https://element.io/download) Вполне удобный клиент, явно лучший среди существующих под платформу.
 
