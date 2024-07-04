@@ -105,9 +105,9 @@
 
 * [Связка Vencord + OpenAsar.](https://vencord.dev/) Широкая поддержка полезных плагинов и тем от сообщества, ускорение холодного старта программы и повышение общей производительности в Discord (в конфигурации OpenAsar можно выбирать режим производительности: для настольных ПК/при постоянном питании рекомендуется использовать Performance, в ином случае Balanced).
 
-Установку производим через [инсталлер Vencord.](https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe) Важно: сохраните его в любом удобном для вас месте. Иногда Vencord (и реже OpenAsar) слетают после обновления Discord, в таком случае нужно заново запустить установщик и переустановить их кнопками **Install Vencord** или **Reinstall / Repair** и **Install OpenAsar.** Это восстановит моды со всеми вашими настройками, плагинами и темами.  
+Установку производим через [инсталлер Vencord.](https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe) Важно: сохраните его в любом удобном для Вас месте. Иногда Vencord (и реже OpenAsar) слетают после обновления Discord, в таком случае нужно заново запустить установщик и переустановить их кнопками **Install Vencord** или **Reinstall / Repair** и **Install OpenAsar.** Это восстановит моды со всеми вашими настройками, плагинами и темами.  
 > [!WARNING]
-> В последнее время участились случаи, когда Discord после холодного старта висит на сплеше и ни на что не реагирует, при том перезапуск приложения не помогает. Это происходит из-за Vencord. Запустите VencordInstaller и переустановите нужные модификации, после этого всё заработает. Кстати, иногда процесс установки OpenAsar немного тупит (например, жалуется на то, что процесс занят) – просто несколько раз подряд кликайте на установку и это действительно сработает. ¯\_(ツ)_/¯ 
+> В последнее время участились случаи, когда Discord после холодного старта висит на сплеше и ни на что не реагирует, при том перезапуск приложения не помогает. Это происходит из-за Vencord. Запустите VencordInstaller и переустановите нужные модификации, после этого всё заработает. Кстати, иногда процесс установки OpenAsar немного тупит (например, жалуется на то, что процесс занят) – просто несколько раз подряд кликайте на установку и это действительно сработает. ¯\\\_(ツ)_/¯
 
 ### Плагины  
 
@@ -115,100 +115,97 @@
 
 * [AlwaysTrust.](https://vencord.dev/plugins/AlwaysTrust) Убирает всплывающее окно о подозрительном сайте или файле.
 * [AnonymiseFileNames.](https://vencord.dev/plugins/AnonymiseFileNames) Анонимизирует имя отправляемых файлов, присваивая им рандомное название.
-* [AutomodContext.]
+* [AutomodContext.](https://vencord.dev/plugins/AutomodContext) Позволяет перейти к сообщениям, на которые срабатала автомодерация.
 * [BetterGifAltText.](https://vencord.dev/plugins/BetterGifAltText) Меняет приписку *"GIF"* на теги GIF или имя файла.
-* [BetterGifPicker.]
-* [BetterRoleContext.]
-* [BetterSettings.]
-* [BetterSessions.]
+* [BetterGifPicker.](https://vencord.dev/plugins/BetterGifPicker) По умолчанию открывает вкладку с избранными в меню выбора GIF.
+* [BetterRoleContext.](https://vencord.dev/plugins/BetterRoleContext) Добавляет опции для копирования цвета роли, редактирования роли и просмотра иконки роли при нажатии ПКМ.
+* [BetterSettings.](https://vencord.dev/plugins/BetterSettings) Добавляет альтернативное меню настроек с улучшенной анимацией перехода и размещением опций по категориям, доступное по нажатию ПКМ по шестерёнке.
+* [BetterSessions.](https://vencord.dev/plugins/BetterSessions) Позволяет просматривать точное время у сессий, давать каждой сессии название и получать уведомления о новых сессиях.
 * [BiggerStreamPreview.](https://vencord.dev/plugins/BiggerStreamPreview) Увеличивает превью стримов.
-* [NoScreensharePreview.](https://vencord.dev/plugins/NoScreensharePreview) Напротив плагину выше, совсем отключает превью стримов.
+* [BlurNSFW.](https://vencord.dev/plugins/BlurNSFW) Размывает медиафайлы в каналах NSFW до тех пор, пока на них не наведён курсор.
 * [CallTimer.](https://vencord.dev/plugins/CallTimer) Добавляет таймер продолжительности разговора в голосовые чаты.
 * [ClearURLs.](https://vencord.dev/plugins/ClearURLs) Автоматически чистит трекеры в ссылках.
 * [CopyUserURLs.](https://vencord.dev/plugins/CopyUserURLs) Добавляет пункт копирования прямой ссылки на пользователя в контекстное меню.
 * [CrashHandler.](https://vencord.dev/plugins/CrashHandler) *Пытается* предотвратить вылеты приложения.
-* [CtrlEnterSend.]
-* [CustomIdle.]
-* [ChatInputButtonAPI.]
-* [Decor.]
-* [DisableDMCallIdle.](https://vencord.dev/plugins/DisableDMCallIdle) Отключает автокик из голосового канала после трёх минут инактива.
-* [DontRoundMyTimestamps.]
-* [EmoteCloner.](https://vencord.dev/plugins/EmoteCloner) Быстрое клонирование кастомного эмодзи/стикера на ваш сервер.
+* [CtrlEnterSend.](https://vencord.dev/plugins/CtrlEnterSend) Позволяет использовать сочетание клавиш Ctrl+Enter для отправки сообщений.
+* [CustomIdle.](https://vencord.dev/plugins/CustomIdle) Позволяет задать своё время до установки статуса *"Не активен"*, или совсем отключить его автоустановку.
+* [DisableCallIdle.](https://vencord.dev/plugins/DisableCallIdle) Отключает автокик из звонка в ЛС или перемещение в АФК-канал на сервере при инактиве.
+* [DontRoundMyTimestamps.](https://vencord.dev/plugins/DontRoundMyTimestamps) Округляет относительные метки времени в меньшую сторону.
+* [EmoteCloner.](https://vencord.dev/plugins/EmoteCloner) Быстрое клонирование кастомного эмодзи/стикера на Ваш сервер.
 * [Experiments.](https://vencord.dev/plugins/Experiments) Предоставляет доступ к разделу экспериментальных функций.
 * [FakeNitro.](https://vencord.dev/plugins/FakeNitro) Подделывает некоторые функции Nitro (использование фейковых эмодзи/стикеров) и позволяет стримить в высоком качестве.
-* [FriendsSince.]
-* [FavoriteEmojiFirst.](https://vencord.dev/plugins/FavoriteEmojiFirst) При :автозаполнении: выводит ваши избранные эмодзи наверх.
+* [FavoriteEmojiFirst.](https://vencord.dev/plugins/FavoriteEmojiFirst) При :автозаполнении: выводит Ваши избранные эмодзи наверх.
+* [FixCodeblockGap.](https://vencord.dev/plugins/FixCodeblockGap) Убирает пустой промежуток между блоком кода и текстом под ним.
+* [FixSpotifyEmbeds.](https://vencord.dev/plugins/FixSpotifyEmbeds) Исправляет проблему с чрезмерной громкостью эмбедов Spotify, позволяя настраивать громкость.
+* [FixYoutubeEmbeds.](https://vencord.dev/plugins/FixYoutubeEmbeds) Обходит блокировку отображения видео с YouTube в Discord.
 * [ForceOwnerCrown.](https://vencord.dev/plugins/ForceOwnerCrown) Принудительно отображает корону рядом с ником владельца сервера.
-* [FixImagesQuality.]
-* [FixCodeblockGap.]
-* [FixYoutubeEmbeds.]
+* [FriendsSince.](https://vencord.dev/plugins/FriendsSince) Отображает дату добавления в друзья при открытии всплывающего окна пользователя.
+* [GameActivityToggle.](https://vencord.dev/plugins/GameActivityToggle) Добавляет кнопку рядом с кнопками мута и заглушения для переключения отображения игровой активности.
 * [GifPaste.](https://vencord.dev/plugins/GifPaste) Вместо моментальной отправки GIF, вставляет ссылку на неё в поле ввода. В результате отправленное сообщение выглядит идентично, при этом предотвращаются неудобные случаи с мисскликами.
 * [GreetStickerPicker.](https://vencord.dev/plugins/GreetStickerPicker) Ручной выбор приветственного стикера по ПКМ.
 * [HideAttachments.](https://vencord.dev/plugins/HideAttachments) Добавляет кнопку скрытия медиа и вложений на панель ввода.
 * [IgnoreActivities.](https://vencord.dev/plugins/IgnoreActivities) Настройки отображения выборочных активностей.
 * [iLoveSpam.](https://vencord.dev/plugins/iLoveSpam) Принудительно отображает сообщения, помеченные как потенциально нежелательные.
 * [ImageZoom.](https://vencord.dev/plugins/ImageZoom) Приближение изображений и GIF через ЛКМ+колёсико мыши.
+* [ImplicitRelationships.](https://vencord.dev/plugins/ImplicitRelationships) Отображает Ваши неявные отношения во вкладке "Друзья". Неявные отношения в Discord — это люди, с которыми Вы недавно взаимодействовали и у которых есть общий сервер с Вами. В таком случае, Discord предполагает, что Вы могли бы быть друзьями.
+* [KeepCurrentChannel.](https://vencord.dev/plugins/KeepCurrentChannel) Пытается вернуть Вас в канал, в котором Вы находились до смены аккаунта или перезапуска Discord.
+* [MaskedLinkPaste.](https://vencord.dev/plugins/MaskedLinkPaste) При вставке ссылки в выделенный текст, будет создана гиперссылка.
+* [MessageLatency.](https://vencord.dev/plugins/MessageLatency) Помечает сообщения, отправка которых заняла более указанного количества секунд.
 * [MessageLogger.](https://vencord.dev/plugins/MessageLogger) Временное сохранение удалённых сообщений и истории редактирования.
-* [MaskedLinkPaste.]
-* [MessageLatency.]
-* [MoreUserTags.](https://vencord.dev/plugins/MoreUserTags) Больше тегов для вебхуков и ролей модерации (staff, mod и другие).
-* [MuteNewGuild.](https://vencord.dev/plugins/MuteNewGuild) Приглушает новые сервера, на которые вы заходите.
+* [MoreUserTags.](https://vencord.dev/plugins/MoreUserTags) Больше тегов для вебхуков и ролей модерации (owner, admin, и другие).
+* [MuteNewGuild.](https://vencord.dev/plugins/MuteNewGuild) Приглушает новые сервера, на которые Вы заходите.
 * [MutualGroupDMs.](https://vencord.dev/plugins/MutualGroupDMs) Показывает общие группы в профиле пользователя.
-* [NoBlockedMessages.](https://vencord.dev/plugins/NoBlockedMessages) Полное скрытие сообщений от заблокированных вами пользователей.
+* [NewGuildSettings.](https://vencord.dev/plugins/NewGuildSettings) Автоматически заглушает новые сервера и позволяет задать другие настройки по умолчанию.
+* [NoBlockedMessages.](https://vencord.dev/plugins/NoBlockedMessages) Полное скрытие сообщений от заблокированных Вами пользователей.
 * [NoF1.](https://vencord.dev/plugins/NoF1) Убирает вызов центра помощи по нажатию клавиши F1.
-* [NoMosaic.]
-* [NoTypingAnimation.]
-* [NoDefaultHangStatus.]
-* [NoServerEmojis.]
+* [NoPendingCount.](https://vencord.dev/plugins/NoPendingCount) Убирает пинги от входящих запросов в друзья, запросах сообщений и предложениях Nitro.
 * [NoProfileThemes.](https://vencord.dev/plugins/NoProfileThemes) Отключает кастомное оформление Nitro-профиля, приводя его к единому стилю с обычным.
-* [NoUnblockToJump.](https://vencord.dev/plugins/NoUnblockToJump) Позволяет переходить к сообщениям от пользователей, которых вы заблокировали.
-* [NewGuildSettings.]
+* [NoReplyMention.](https://vencord.dev/plugins/NoReplyMention) Отключает пинги при ответах по умолчанию.
+* [NoScreensharePreview.](https://vencord.dev/plugins/NoScreensharePreview) Отключает отправку превью Ваших стримов.
+* [NoServerEmojis.](https://vencord.dev/plugins/NoServerEmojis) Убирает эмодзи сервера в меню :автозаполнения:.
+* [NotificationVolume.](https://vencord.dev/plugins/NotificationVolume) Позволяет установить отдельную громкость для уведомлений и звуков в приложении.
+* [NoTypingAnimation.](https://vencord.dev/plugins/NoTypingAnimation) Отключает анимацию точек при печати, которая нагружает процессор.
+* [NoUnblockToJump.](https://vencord.dev/plugins/NoUnblockToJump) Позволяет переходить к сообщениям от пользователей, которых Вы заблокировали.
 * [OnePingPerDM.](https://vencord.dev/plugins/OnePingPerDM) При получении нескольких сообщений от пользователя в ЛС, пройдёт только один звук уведомления.
 * [OpenInApp.](https://vencord.dev/plugins/OpenInApp) Открывает ссылки на Spotify, Steam и Epic Games в соответствующих приложениях, а не в браузере.
+* [PauseInvitesForever.](https://vencord.dev/plugins/PauseInvitesForever) Возвращает возможность бессрочно приостанавливать приглашения на сервер.
+* [PermissionFreeWill.](https://vencord.dev/plugins/PermissionFreeWill) Отключает клиентские ограничения для управления правами доступа к каналам.
 * [PermissionsViewer.](https://vencord.dev/plugins/PermissionsViewer) Просмотр разрешений, которыми обладает пользователь/канал/роль сервера.
-* [PermissionFreeWill.]
-* [PauseInvitesForever.]
-* [PictureInPicture.](https://vencord.dev/plugins/PictureInPicture) Добавляет режим Картинка-в-картинке для видео (рядом с кнопкой загрузки).
-* [PlatformIndicators.](https://vencord.dev/plugins/PlatformIndicators) Добавляет индикатор платформы, с которой вы онлайн (ПК, телефон, браузер и другие).
+* [PictureInPicture.](https://vencord.dev/plugins/PictureInPicture) Добавляет режим картинка-в-картинке для видео (рядом с кнопкой загрузки).
+* [PlatformIndicators.](https://vencord.dev/plugins/PlatformIndicators) Добавляет индикаторы платформ к пользователям, которые онлайн (ПК, телефон, браузер).
 * [QuickMention.](https://vencord.dev/plugins/QuickMention) Добавляет кнопку упоминания на панель ввода.
-* [OverrideForumDefaults.]
-* [ReadAllNotificationsButton.](https://vencord.dev/plugins/ReadAllNotificationsButton) Выводит кнопку "Read all", которая очищает висящие непрочитанные сообщения со всех серверов.
-* [RelationshipNotifier.](https://vencord.dev/plugins/RelationshipNotifier) Уведомляет, если: вас удалили из друзей; ваш запрос дружбы был отклонён; вы были удалены с сервера или группы.
+* [ReadAllNotificationsButton.](https://vencord.dev/plugins/ReadAllNotificationsButton) Добавляет кнопку "Read all", которая очищает висящие непрочитанные сообщения со всех серверов.
+* [RelationshipNotifier.](https://vencord.dev/plugins/RelationshipNotifier) Уведомляет, если Вас удалили из друзей, Ваш запрос дружбы был отклонён, или Вы были удалены с сервера или группы.
 * [ReplaceGoogleSearch.](https://vencord.dev/plugins/ReplaceGoogleSearch) Замена Google на иные поисковые системы.
-* [RevealAllSpoilers.](https://vencord.dev/plugins/RevealAllSpoilers) Открывает все спойлеры в сообщении с помощью Ctrl+клик по одному из спойлеров/во всём чате с помощью Ctrl+Shift+клик.
-* [ResurrectHome.]
-* [ReverseImageSearch.](https://vencord.dev/plugins/ReverseImageSearch) Добавляет пункт поиска по картинке в контекстное меню изображений.
 * [ReplyTimestamp.](https://vencord.dev/plugins/ReplyTimestamp) Добавляет время ответа на сообщение.
-* [ReplaceGoogleSearch.]
+* [RevealAllSpoilers.](https://vencord.dev/plugins/RevealAllSpoilers) Открывает все спойлеры в сообщении с помощью Ctrl+клик по одному из спойлеров или во всём чате с помощью Ctrl+Shift+клик.
+* [ReverseImageSearch.](https://vencord.dev/plugins/ReverseImageSearch) Добавляет пункт поиска по картинке в контекстное меню изображений.
+* [ReviewDB.](https://vencord.dev/plugins/ReviewDB) Позволяет оставлять отзывы о других пользователях в их профилях.
 * [RoleColorEverywhere.](https://vencord.dev/plugins/RoleColorEverywhere) Добавляет цвет роли везде, кроме индикатора печати.
-* [ImplicitRelationships.]
-* [ImageLink.]
-* [TypingTweaks.](https://vencord.dev/plugins/TypingTweaks) Выводит аватарку и цвет роли в индикатор печати. Применимо в том числе, когда печатает несколько человек.
 * [SearchReply.](https://vencord.dev/plugins/SearchReply) Добавляет кнопку "Ответить" для сообщений в поиске.
 * [ShikiCodeblocks.](https://vencord.dev/plugins/ShikiCodeblocks) Красивое оформление блоков кода в стиле VSCode. Можно применять свои темы.
-* [Summaries.](https://vencord.dev/plugins/Summaries) Включает экспериментальную функцию "сводок" на каждом сервере. Отображает информативные сводки разговоров, сгенерированные искусственным интеллектом.
-* [SuperReactionTweaks.]
-* [StreamerModeOnStream.]
-* [ShowHiddenThings.]
 * [ShowAllMessageButtons.](https://vencord.dev/plugins/ShowAllMessageButtons) Включает отображение всех кнопок на панели действий сообщения без необходимости зажимать Shift.
 * [ShowHiddenChannels.](https://vencord.dev/plugins/ShowHiddenChannels) Отображение каналов, к которым отсутствует доступ. Показывает участников (если это голосовой канал) и дату последнего сообщения.
-* [ShowTimeouts.](https://vencord.dev/plugins/ShowTimeouts) Отображает иконки тайм-аута пользователей в чате независимо от прав доступа.
+* [ShowHiddenThings.](https://vencord.dev/plugins/ShowHiddenThings) Отображает различные скрытые и доступные только модераторам вещи, независимо от уровня прав пользователя.
+* [ShowTimeoutDuration.](https://vencord.dev/plugins/ShowTimeoutDuration) Показывает, сколько времени осталось до окончания тайм-аута пользователя во всплывающей подсказке иконки тайм-аута, либо рядом с ней.
 * [SilentMessageToggle.](https://vencord.dev/plugins/SilentMessageToggle) Добавляет кнопку беззвучной отправки сообщений на панель ввода (заменяет ручное добавление *@silent* перед каждым сообщением).
 * [SilentTyping.](https://vencord.dev/plugins/SilentTyping) Скрывает статус о печати. Можно добавить переключатель справа от поля ввода.
-* [SortFriendRequests.](https://vencord.dev/plugins/SortFriendRequests) Сортирует запросы в друзья по дате получения; отображает дату.
+* [SortFriendRequests.](https://vencord.dev/plugins/SortFriendRequests) Сортирует запросы в друзья по дате получения, отображает дату.
+* [StreamerModeOnStream.](https://vencord.dev/plugins/StreamerModeOnStream) Автоматически включает режим стримера, когда Вы начинаете стрим в Discord.
+* [Summaries.](https://vencord.dev/plugins/Summaries) Включает экспериментальную функцию "сводок" на каждом сервере. Отображает информативные сводки разговоров, сгенерированные искусственным интеллектом.
+* [SuperReactionTweaks.](https://vencord.dev/plugins/SuperReactionTweaks) Позволяет настраивать лимит одновременно проигрываемых супер-реакций и ставить супер-реакцию по умолчанию.
 * [Translate.](https://vencord.dev/plugins/Translate) Перевод сообщений через Google Переводчик.
 * [TypingIndicator.](https://vencord.dev/plugins/TypingIndicator) Добавляет индикатор печати рядом с аватаркой канала.
+* [TypingTweaks.](https://vencord.dev/plugins/TypingTweaks) Выводит аватарку и цвет роли в индикатор печати. Применимо в том числе, когда печатает несколько человек.
 * [ValidReply.](https://vencord.dev/plugins/ValidReply) Исправляет ошибку, из-за которой сообщения о ссылках (ответах на них) отображаются как «Сообщение не может быть загружено».
 * [ValidUser.](https://vencord.dev/plugins/ValidUser) Исправляет некорректное отображение пингов от незнакомых пользователей.
 * [ViewRaw.](https://vencord.dev/plugins/ViewRaw) Копирование и просмотр любого сообщения в формате Raw.
-* [UnlockedAvatarZoom.]
-* [PartyMode.]
+* [UnlockedAvatarZoom.](https://vencord.dev/plugins/UnlockedAvatarZoom) Увеличивает лимит на увеличение изображения в инструменте обрезки при смене аватара.
 * [VoiceMessages.](https://vencord.dev/plugins/VoiceMessages) Добавляет возможность отправки аудио в формате голосовых сообщений.
 * [VoiceDownload.](https://vencord.dev/plugins/VoiceDownload) Добавляет кнопку скачивания голосовых сообщений.
 * [VolumeBooster.](https://vencord.dev/plugins/VolumeBooster) Позволяет устанавливать громкость пользователя в звонке выше максимальной.
 * [WhoReacted.](https://vencord.dev/plugins/WhoReacted) Отображает аватары пользователей в области реакций (как в Telegram).
-* [WatchTogetherAdblock.](https://vencord.dev/plugins/WatchTogetherAdblock) Блокировка рекламы в YouTube при использовании активности WatchTogether. Для блокировки используется AdGuard.
-* [XSOverlay.]
+* [WatchTogetherAdblock.](https://vencord.dev/plugins/WatchTogetherAdblock) Блокировка рекламы в YouTube при использовании активности Watch Together. Для блокировки используется AdGuard.
 
 ### Темы
 
