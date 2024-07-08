@@ -11,7 +11,9 @@
 | [Looks Watch Faces](https://www.apkmirror.com/apk/ustwo-studios/looks-android-wear-watch-faces-android-wear/looks-android-wear-watch-faces-android-wear-1-20-0-release/)  | Слишком много, смотрите в скриншотах Google Play |
 | [MNML Thin](https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlthin) | ![mnml-thin-1](https://github.com/begoniacommunity/list/assets/76614596/f20619fa-a075-4e44-b960-1e7c19f6d41a) ![mnml-thin-2](https://github.com/begoniacommunity/list/assets/76614596/636932a0-9741-4007-ba29-77757087dfa3) |
 | [Wave](https://play.google.com/store/apps/details?id=com.watchfacestudio.awfwave) | ![wave-1](https://github.com/begoniacommunity/list/assets/76614596/ce01aeaf-beca-46ae-9f12-6b2ff7b2d2c8) ![wave-2](https://github.com/begoniacommunity/list/assets/76614596/2a334a0b-6708-4093-bd0c-351f83800235) |
-| [Pacific E](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pacifice) (не содержат цифрового варианта) | ![pacific-e](https://github.com/begoniacommunity/list/assets/76614596/7dbeb0b4-b612-499a-9627-9104d1f4c259) ![pacific-e-2](https://github.com/begoniacommunity/list/assets/76614596/1187b634-919f-4682-a845-c0b032b89a61) | 
+| [Pacific E,](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pacifice) не содержат цифрового варианта | ![pacific-e](https://github.com/begoniacommunity/list/assets/76614596/7dbeb0b4-b612-499a-9627-9104d1f4c259) ![pacific-e-2](https://github.com/begoniacommunity/list/assets/76614596/1187b634-919f-4682-a845-c0b032b89a61) | 
+| [Nebula](https://play.google.com/store/apps/details?id=time.flies.nebula) | ![nebula-1](https://github.com/user-attachments/assets/1a142758-ec12-4780-8023-7b6635edbe51) ![nebula-2](https://github.com/user-attachments/assets/e28a3379-dc25-4deb-a025-b01af47f6165)
+
 
 ## Приложения
 * [Mir Pay Wallet.](https://github.com/the-dise/Mir-Pay-Wallet)
