@@ -11,7 +11,7 @@
 
 [Скачать модуль](https://github.com/begoniacommunity/list/blob/magisk-modules/sensitive_props.zip)
 
-## Disable logging
+## Disable logs
 Модифицированная версия [модуля от mrfrost475.](https://4pda.to/forum/index.php?showtopic=915158&st=220#entry105651495)
 
 Что сделано:
@@ -25,9 +25,9 @@
 
 >
 > [!CAUTION]
-> На некоторых устройствах модуль приводит к циклической перезагрузке системы/в fastboot. Пожалуйста, сохраните важные данные перед установкой, а лучше и вовсе проверьте работоспособность на чистой системе перед использованием на основном сетапе.
+> На некоторых прошивках модуль приводит к бутлупу или перезагрузке в fastboot (например, на crDroid 10.x). Пожалуйста, сохраните важные данные перед установкой, а лучше и вовсе проверьте работоспособность на чистой системе перед использованием на основном сетапе.
 
-[Скачать модуль](https://github.com/begoniacommunity/list/blob/magisk-modules/disable_logging.zip)
+[Скачать модуль](https://github.com/begoniacommunity/list/blob/magisk-modules/disable_logs.zip)
 
 ## BetterQS
 Эстетически правильная и удобная разметка панели быстрого доступа при горизонтальной ориентации экрана. [Превью.](https://github.com/begoniacommunity/list/blob/magisk-modules/betterqs_preview.png)  
@@ -37,3 +37,8 @@
 > Чтобы восстановить его, пройдите в Настройки → Система → Для разработчиков → Вырез на экране → Вариант по умолчанию.
 
 [Скачать модуль](https://github.com/begoniacommunity/list/blob/magisk-modules/better_qs.zip)
+
+## LSPosed Mod No Logs
+LSPosed с поддержкой Android 14 QPR2+ без внутренних логов. 
+
+[Скачать модуль](https://github.com/begoniacommunity/list/blob/magisk-modules/lsposed_no-logs.zip)
