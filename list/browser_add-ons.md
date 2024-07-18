@@ -4,12 +4,30 @@
 
 * [uBlock Origin.](https://ublockorigin.com/ru) Самый популярный свободный блокировщик рекламы. В представлении не нуждается.  
 
-Фильтры для uBlock (рунет):
-> Файл (фильтр) не нужно скачивать. Его надо добавить в Список фильтров расширения, чтобы поддерживались автообновления.  
+<details>
 
-1. (RU AdList: BitBlock) `https://easylist-downloads.adblockplus.org/bitblock.txt`  
-2. (RU AdList: Counters) `https://easylist-downloads.adblockplus.org/cntblock.txt`  
-3. Блокируем Anti-Adblock баннер на [Aternos.org:](https://aternos.org/) uBlock Origin → открываем панель управления (клик по шестерёнке) → Мои фильтры → добавляем `@@||aternos.org^$shide`.
+<summary>Пользовательские фильтры для uBlock</summary>
+
+Как добавить: тапаем по иконке uBlock Origin → открываем панель управления (клик по шестерёнке) → Списки фильтров → активируем нужное (можно сразу всё). Применяем изменения.  
+Далее переходим в раздел Мои фильтры → копируем и вставляем код, указанный ниже. Снова применяем изменения.
+
+* Anti-Adblock баннер на [Aternos.org:](https://aternos.org/)  
+```
+@@||aternos.org^$shide
+```
+
+* Реклама в Яндексе:
+```
+/yandex/##div[class*="-Incut"]
+/yandex/###search-result > li:has(div.Organic-Subtitle > span:has-text(Реклaма))
+/yandex/###search-result > li:has(div.Organic-Subtitle > span:has-text(Peкламa))
+/yandex/##div:has(> .ImagesViewer-SidebarAdv)
+/yandex/##div:has(> #ImagesViewer-SidebarAdv)
+/yandex/##.ImagesViewer-LayoutFooter:has(.CommercialProduct)
+```
+
+
+</details>
 
 * [SponsorBlock.](https://sponsor.ajay.app/) Автоматически пропускает любые рекламные секции в видео на YouTube. Полностью community-powered, вы можете сами добавлять метки и загружать рекламные секции для пропуска по своему усмотрению.
 * [Track24.](https://chrome.google.com/webstore/detail/track24ru/lfijgegefgcgbfcgjgnhnkclenhfijhk?hl=ru) Удобное расширение для отслеживания посылок в браузере.
