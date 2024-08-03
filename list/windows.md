@@ -6,7 +6,7 @@
 
 ### ⚙️ Настройка и дополнения к системе
 * [SophiApp.](https://github.com/Sophia-Community/SophiApp) Тонкая подстройка рабочего окружения под себя. Использует только то, что реализуемо путём задокументированного разработчиками Windows функционала.<sup>[`ℹ️`](https://github.com/Sophia-Community/SophiApp?tab=readme-ov-file#key-features)</sup>
-* [VCRHyb64.](https://t.me/begoniacommunity/1310689) Сборник всех устанавливаемых Visual C++ Redistributable 2005-2022, устаналиваются сразу версии x86/x64.
+* [VCRHyb64.](https://nextcloud.fxaura.xyz/s/Gr49Q7MyNzFgizc) Сборник всех устанавливаемых Visual C++ Redistributable 2005-2022, устаналиваются сразу версии x86/x64.
 * [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework)<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/info.md#net-runtime)</sup> и [VCLibs.](https://learn.microsoft.com/ru-ru/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge#how-to-install-and-update-desktop-framework-packages)<sup>[`ℹ️`](https://github.com/begoniacommunity/list/blob/main/list/info.md#vclibs)</sup> Порой нужные зависимости.
 * [SKTimeStamp.](https://tools.stefankueng.com/SKTimeStamp.html) Добавляет раздел для точного изменения времени создания/модификации/открытия через свойства файла в Проводнике.
 * [Windows Terminal.](https://github.com/microsoft/terminal/) Терминал от Microsoft с широкой кастомизацией, поддерживает любые виды консолей, будь то cmd, PowerShell или WSL. Сразу ставьте как приложение для командной строки по умолчанию.<sup>[`ℹ️`](https://learn.microsoft.com/ru-ru/windows/terminal/install#set-your-default-terminal-application)</sup>
