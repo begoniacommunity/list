@@ -1,6 +1,51 @@
->
-> [!NOTE]
-> *Почти публичный архив.* Потому что добавлять пока (или больше) нечего.
+# APatch
+1. Скачиваем и устанавливаем [APatch 10865;](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/APatch-10865.apk) скачиваем [cherish_peekaboo_1.4.2.kpm.](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/cherish_peekaboo_1.4.2.kpm) Открываем, переходим к меню патчинга ядра (кнопка в шапке приложения), выбираем образ.
+2. Задаем пароль superkey. Он понадобится в будущем.
+3. Нажимаем на "Встроенный KPM", выбираем cherish_peekabo_1.4.2.kpm и запускаем процесс патчинга. Готовое ядро прошиваем на устройство.
+4. Переходим к менеджеру APatch. Вводим пароль, заданный ранее; устаналиваем AndroidPatch (просто нажать соответствующую кнопку). Устанавливаем модули [Zygisk Next,](https://github.com/Dr-TSNG/ZygiskNext/releases/tag/v1.1.0) [Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant/) и ТОЛЬКО ЭТОТ [LSPosed v7075.](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/LSPosed-v7075.zip) Перезагружаемся.
+5. Теперь можно устанавливать всё остальное (даже обычный YouTube ReVanced, следы его монтирования будут скрыты).
+
+P.S. Обнаружение инъекций в Native Detector фальшивое. Перманентно фиксится перезагрузкой.
+___
+
+Инструкция для скрытия некоторых модулей, если встроенная реализация OverlayFS не справляется.
+
+### Патчинг модулей
+0. Устанавливаем [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) и прикрепленную версию модуля [Magisk OverlayFS.](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/magisk-overlayfs-release_v3.2.2-fixed.zip) Другая не подойдет. Перезагружаем устройство.
+1. Открываем архив с модулем и открываем customize.sh. Если такого нет, создаём.
+2. Перед завершением установки модуля (это последняя строчка, обычно `exit`, либо конец скрипта) добавляем следующий скрипт:
+```
+OVERLAY_IMAGE_EXTRA=0     # number of kb need to be added to overlay.img
+OVERLAY_IMAGE_SHRINK=true # shrink overlay.img or not?
+# Only use OverlayFS if Magisk_OverlayFS is installed
+if [ -f "/data/adb/modules/magisk_overlayfs/util_functions.sh" ] && \
+    /data/adb/modules/magisk_overlayfs/overlayfs_system --test; then
+  ui_print "- Add support for overlayfs"
+  . /data/adb/modules/magisk_overlayfs/util_functions.sh
+  support_overlayfs && rm -rf "$MODPATH"/system
+fi
+```
+
+3. Сохраняем отредактированный файл и переносим его в установочный архив с заменой. 
+4. Устанавливаем модуль. Если всё успешно (Вы правильно вставили скрипт, а модуль поддерживает установку через OverlayFS), в логе установки будет схожий вывод, как при установке самого модуля OverlayFS.
+5. Перезагружаем устройство и проверяем:
+   - сам модуль, всё ли работает корректно;
+   - обнаружение файлов в Memory Detector – должен быть вывод: *Looks fine! Nothing is found.*
+
+### Скрываем addon.d
+0. Понадобится приложения [Momo.](https://github.com/apkunpacker/MagiskDetection/blob/main/Momo-v4.4.1.apk)
+Устанавливаем прикрепленную версию модуля [Magisk OverlayFS.](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/magisk-overlayfs-release_v3.2.2-fixed.zip) Другая не подойдет. Перезагружаем устройство.
+   - [Использование модуля с KernelSU и APatch (необязательно к выполнению)](https://github.com/HuskyDG/magic_overlayfs#kernelsu-problem)
+1. После установки модуля, в Терминале (Shell) выполните команду: `su -mm -c magic_remount_rw`.
+2. **Если Вы на кастомной прошивке,** переходим в файловый менеджер с поддержкой root (рекомендуется [Material Files](https://github.com/zhanghai/MaterialFiles)), переходим в папку /system/addon.d и удаляем все файлы из этой папки. Меняем права для папки на 0000 (снимаем все галочки для всех юзеров). Визуально, в файловом менеджере, изменения в разрешениях могут не примениться, но на деле это работает.
+   - Если у Вас файловая система ext4, то перейдите к файлу build.prop в режиме текстового редактора и удалите все строки, содержащие `lineage`, `aosp` или `crdroid`. Сохраните изменения. Если изменения сохранены успешно, установите разрешения 0600 для файла build.prop. Если Вы получили ошибку `I/O error`, редактирование build.prop для Вас недоступно.
+3. Как всё сделали, выполняем в Терминале: `su -mm -c magic_remount_ro`.
+4. Проходим по пути /data/adb/modules/magisk_overlayfs и открываем текстовым редактором файл *mode.sh*, находим строчку `export OVERLAY_MODE=`, меняем значение с `0` на `2`.
+5. Перезагружаемся и после проверяем, применились ли изменения. Если нет – повторяете предыдущий пункт, такое бывает.
+
+<details>
+
+<summary>Старая версия гайда</summary>
 
 ## Получение root-прав
 ### Kitsune Mask (рекомендуется)
@@ -124,3 +169,4 @@ fi
 ## Блокируем загрузчик / скрываем разблокированный
 На устройствах Google Pixel можно заблокировать загрузчик с установленной неофициальной прошивкой (и даже с root-правами). Это возможно и на других устройствах, поддерживающих кастомную подпись AVB (avb_custom_key) – с помощью программы [avbroot.](https://github.com/chenxiaolong/avbroot/blob/master/README.ru.md) Такая, самоподписная блокировка, не поможет пройти Strong-сертификацию в Play Integrity, но для редчайшего набора приложений, проверяющих статус блокировки и уровень доверия загрузчика, её будет достаточно.  
 Для других устройств есть менее надёжный (а точнее частично рабочий) метод с модулем [BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) под LSPosed. Активируйте его для приложений, обнаруживающих разблокированный загрузчик. Есть вероятность, что это поможет (например, помогает с root-чекером Momo и некоторыми играми).
+</details>

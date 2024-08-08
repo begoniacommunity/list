@@ -2,7 +2,7 @@
 
 ## Приложения:
 ### 📹 Стриминговый контент и социальные сети
-* [ReVanced Extended для YouTube.](https://github.com/MatadorProBr/revanced-extended-magisk-module/releases)<sup>[`ℹ️`](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-comgoogleandroidyoutube)</sup> Включает в себя [SponsorBlock](https://sponsor.ajay.app/) и [ReturnYoutubeDislike.](https://www.returnyoutubedislike.com/) Есть как root, так и non-root версии. В том числе для клиента YouTube Music.<sup>[`ℹ️`](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-comgoogleandroidappsyoutubemusic)</sup>
+* [ReVanced Extended для YouTube.](https://github.com/j-hc/revanced-magisk-module/releases)<sup>[`ℹ️`](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-comgoogleandroidyoutube)</sup> Включает в себя [SponsorBlock](https://sponsor.ajay.app/) и [ReturnYoutubeDislike.](https://www.returnyoutubedislike.com/) Есть как root, так и non-root версии. В том числе для клиента YouTube Music.<sup>[`ℹ️`](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-comgoogleandroidappsyoutubemusic)</sup>
   * [Рекомендуемые non-root модификации от Number one'.](https://4pda.to/forum/index.php?act=search&query=%D2%E8%EF%3A+%CC%EE%E4%E8%F4%E8%EA%E0%F6%E8%FF&source=all&sort=dd&subforums=1&username-id=2692865&topics=1050118)
 >
 > [!IMPORTANT]
