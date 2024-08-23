@@ -252,6 +252,10 @@ Wildberries: `https://appgallery.huawei.com/app/C101183325` (доступно т
 Рекомендую заглянуть в [Awesome Shizuku.](https://github.com/ThePBone/awesome-shizuku) Это обновляемый список приложений, поддерживающих работу через локальный adb.
 
 ## Полезное
+* Установить кастомную скорость анимаций через adb shell:
+  * `settings put global window_animation_scale 0.XX`
+  * `settings put global transition_animation_scale 0.XX`
+  * `settings put global animator_duration_scale 0.XX`
 * Принудительный запуск оптимизации приложений (бывает полезно в случаях, если сделали клинфлеш с последующей установкой большого количества приложений/обновили версию Android с сохранением данных): 
   1. Если у вас есть root-права: запускаем в Терминале команду `su -c "cmd package bg-dexopt-job"` и ожидаем окончания процесса (будет выведена строка Success).
   2. Если root-прав нет, выполняем `cmd package bg-dexopt-job` через Shizuku или классический `adb shell`.
