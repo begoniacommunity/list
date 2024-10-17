@@ -40,7 +40,7 @@
 > Все указанные ниже пакеты безопасны к удалению/отключению.  
 > Списки соответствуют набору приложений на моделях E3 и Pro 3.
 
-### [Удобный деблоатер на основе PowerShell](https://github.com/bugreportion/TicWatch-Debloater)
+### [Удобный деблоатер на основе PowerShell](https://github.com/SunsetTechuila/ADB-Debloater)
 
 ### Приложения от Mobvoi
 
