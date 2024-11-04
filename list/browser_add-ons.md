@@ -89,11 +89,13 @@ yandex.*##.AliceFabButton
 
 <details>
 
-<summary>Enhancer for YouTube: убираем новый уродский градиент в плеере и элементах интерфейса</summary>
+<summary>Enhancer for YouTube</summary>
 
 Переходим в настройки расширения, активируем пункт «Пользовательская тема» и вставляем код. Сохраняем. Изменения применяются без необходимости в перезагрузке страницы.
 
-```
+Убираем новый уродский градиент в плеере и элементах интерфейса:
+
+```css
 .ytp-swatch-background-color,
 #progress.ytd-thumbnail-overlay-resume-playback-renderer,
 #progress.yt-page-navigation-progress,
@@ -101,6 +103,16 @@ yandex.*##.AliceFabButton
 .YtProgressBarLineProgressBarPlayed {
    background: #f03 !important;
    background-color: #f03 !important;
+}
+```
+
+Исправляем пропорции превью на странице воспроизведения:
+
+```css
+.html5-video-player {
+    background-size: contain !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
 }
 ```
 
