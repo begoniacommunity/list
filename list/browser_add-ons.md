@@ -74,7 +74,7 @@ yandex.*##.AliceFabButton
 2. [Voice-Over-Translation.](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) Автоматический закадровый перевод видео в реальном времени, свободный "порт" из Яндекс Браузера.
 
 * [ClearURLs.](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) Автоматически очищает URL страницы от трекинг-содержимого.
-* [Dark Reader.](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ru) Хорошее расширения для автоматической перекраски сайтов в тёмные тона. Единственное неудобство: нужно вручную отключать его работу для сайтов, где темная тема уже предусмотрена разработчиками, расширение не умеет определять это самостоятельно. В остальном маст-хев, множество настроек.
+* [Dark Reader.](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Хорошее расширения для автоматической перекраски сайтов в тёмные тона. Маст-хев, множество настроек.
 * [Search by Image.](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) Приятный интерфейс, большое количество сервисов для поиска, можно добавлять свои. Небольшой дополнительный функционал. Пробуйте.
 * [Bing AI Plus.](https://github.com/patrik-martinko/app-bing-ai-plus) Позволяет модифицировать внешний вид страницы чатбота, снимает ограничение на количество символов.
 * [User-Agent Switcher and Manager.](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) Позволяет быстро подменить useragent вашего девайса.
