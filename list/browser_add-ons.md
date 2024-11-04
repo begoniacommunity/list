@@ -20,22 +20,14 @@
 
 * Реклама на страницах поиска и картинок
 ```
-ya.ru##div[class*="-Incut"]
-ya.ru###search-result > li:has(div[class*="Organic"]:not([class*="Title"]) > *:has-text(/^[РP]{1}[еe]{1}кл[аa]{1}м[аa]{1}$/i))
-ya.ru##div:has(> .ImagesViewer-SidebarAdv)
-ya.ru##div:has(> #ImagesViewer-SidebarAdv)
-ya.ru##div[class*="-Incut"]
-ya.ru###search-result > li:has(div[class*="Organic"]:not([class*="Title"]) > *:has-text(/^[РP]{1}[еe]{1}кл[аa]{1}м[аa]{1}$/i))
-ya.ru##div:has(> .ImagesViewer-SidebarAdv)
-ya.ru##div:has(> #ImagesViewer-SidebarAdv)
-ya.ru##.ImagesViewer-LayoutFooter:has(.CommercialProduct)
-ya.ru##.ImagesViewer-LayoutSideblock > div > div > div:not(:has(.MMViewerButtons))
-yandex.*##div[class*="-Incut"]
-yandex.*###search-result > li:has(div[class*="Organic"]:not([class*="Title"]) > *:has-text(/^[РP]{1}[еe]{1}кл[аa]{1}м[аa]{1}$/i))
-yandex.*##div:has(> .ImagesViewer-SidebarAdv)
-yandex.*##div:has(> #ImagesViewer-SidebarAdv)
-yandex.*##.ImagesViewer-LayoutFooter:has(.CommercialProduct)
-yandex.*##.ImagesViewer-LayoutSideblock > div > div > div:not(:has(.MMViewerButtons))
+/^ya\.ru|yandex/##div[class*="-Incut"]
+/^ya\.ru|yandex/###search-result > li:has(div[class*="Organic"]:not([class*="Title"]) > *:has-text(/^[РP]{1}[еe]{1}кл[аa]{1}м[аa]{1}$/i))
+/^ya\.ru|yandex/##div:has(> .ImagesViewer-SidebarAdv)
+/^ya\.ru|yandex/##div:has(> #ImagesViewer-SidebarAdv)
+/^ya\.ru|yandex/##.ImagesViewer-LayoutFooter:has(.CommercialProduct)
+/^ya\.ru|yandex/##.ImagesViewer-LayoutSideblock > div > div > div:not(:has(.MMViewerButtons))
+/^ya\.ru|yandex/##.ProductGallery
+/^ya\.ru|yandex/##.i-mini-bem:has([class*="tgo__mark"]:has-text(/^[РP]{1}[еe]{1}кл[аa]{1}м[аa]{1}$/i))
 ```
 
 * Реклама на странице погоды. Убирает современный вид страницы, возвращая сводку по дням
