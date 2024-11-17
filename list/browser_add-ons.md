@@ -57,8 +57,7 @@ yandex.*##:matches-path(/weather) .header-b2b__menu-item
 * Кнопка вызова Алисы
 ```
 ya.ru##.alice-fab
-ya.ru##.AliceFabButton
-yandex.*##.AliceFabButton
+/^ya\.ru|yandex/##.AliceFabButton
 ```
 
 </details>
