@@ -11,7 +11,9 @@
 Как добавить: тапаем по иконке uBlock Origin → открываем панель управления (клик по шестерёнке) → Списки фильтров → активируем нужное (можно сразу всё). Применяем изменения.  
 Далее переходим в раздел Мои фильтры → копируем и вставляем код, указанный ниже. Снова применяем изменения.
 
-* Anti-Adblock баннер на [Aternos.org:](https://aternos.org/)  
+### Aternos
+
+* Anti-Adblock баннер
 ```
 @@||aternos.org^$shide
 ```
@@ -58,6 +60,12 @@ yandex.*##:matches-path(/weather) .header-b2b__menu-item
 ```
 ya.ru##.alice-fab
 /^ya\.ru|yandex/##.AliceFabButton
+```
+
+### YouTube
+* Кнопка "Спасибо/Thanks" под плеером
+```
+##yt-button-shape > button[aria-label="Thanks"]
 ```
 
 </details>
