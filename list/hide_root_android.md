@@ -23,7 +23,7 @@
 # Опциональное
 
 ## Скрытие следов монтирования модулей
-Устанавливаем [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) и прикрепленную версию модуля [Magisk OverlayFS.](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/magisk-overlayfs-release_v3.2.2-fixed.zip) **Другие версии не работают с новым Magisk!** Перезагружаем устройство.
+Устанавливаем [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) и прикрепленную версию модуля [Magisk OverlayFS.](https://github.com/reddxae/list/blob/files/apatch-stuff/magisk-overlayfs-release_v3.2.2-fixed.zip) **Другие версии не работают с новым Magisk!** Перезагружаем устройство.
 1. Открываем архив с модулем и переходим к файлу customize.sh. Если такого нет, создаём.
 2. Перед завершением установки модуля (это последняя строчка, обычно `exit`, либо же просто конец файла) добавляем следующий скрипт:
 ```
@@ -47,7 +47,7 @@ fi
 Скрывать монтирование ReVanced вручную больше не нужно, за вас это автоматически делает модуль Zygisk Assistant.
 
 ## Скрываем addon.d в LineageOS
-1. Устанавливаем прикрепленную версию модуля [Magisk OverlayFS.](https://github.com/begoniacommunity/list/blob/files/apatch-stuff/magisk-overlayfs-release_v3.2.2-fixed.zip) **Другие версии не работают с новым Magisk!** Перезагружаем устройство.
+1. Устанавливаем прикрепленную версию модуля [Magisk OverlayFS.](https://github.com/reddxae/list/blob/files/apatch-stuff/magisk-overlayfs-release_v3.2.2-fixed.zip) **Другие версии не работают с новым Magisk!** Перезагружаем устройство.
 2. После установки модуля, в оболочке (проще говоря adb shell) выполните команду: `su -mm -c magic_remount_rw`.
 3. **Если Вы на кастомной прошивке,** переходим в файловый менеджер с поддержкой root (рекомендуется [Material Files](https://github.com/zhanghai/MaterialFiles)), переходим в папку /system/addon.d и удаляем все файлы из этой папки. Меняем права для папки на 0000 (снимаем все галочки для всех юзеров).
 4. Выполняем в оболочке команду `su -mm -c magic_remount_ro`.

@@ -9,9 +9,9 @@
 | Ссылка на Google Play | Превью |
 | --------------------- | ------ |
 | [Looks Watch Faces <sup>`(WearOS 2.xx+)`</sup>](https://www.apkmirror.com/apk/ustwo-studios/looks-android-wear-watch-faces-android-wear/looks-android-wear-watch-faces-android-wear-1-20-0-release/) | ![lwf-1](https://github.com/user-attachments/assets/af7288dd-e845-4281-9cba-79c5dd7f2b53) ![lwf-2](https://github.com/user-attachments/assets/22233942-52fb-4c7f-9159-bafd71aa021a) |
-| [MNML Thin <sup>`(WearOS 2.xx+)`</sup>](https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlthin) | ![mnml-thin-1](https://github.com/begoniacommunity/list/assets/76614596/f20619fa-a075-4e44-b960-1e7c19f6d41a) ![mnml-thin-2](https://github.com/begoniacommunity/list/assets/76614596/636932a0-9741-4007-ba29-77757087dfa3) |
-| [Wave <sup>`(WearOS 2.xx+)`</sup>](https://play.google.com/store/apps/details?id=com.watchfacestudio.awfwave) | ![wave-1](https://github.com/begoniacommunity/list/assets/76614596/ce01aeaf-beca-46ae-9f12-6b2ff7b2d2c8) ![wave-2](https://github.com/begoniacommunity/list/assets/76614596/2a334a0b-6708-4093-bd0c-351f83800235) |
-| [Pacific E <sup>`(WearOS 2.xx+, не содержат цифрового варианта)`</sup>](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pacifice) | ![pacific-e](https://github.com/begoniacommunity/list/assets/76614596/7dbeb0b4-b612-499a-9627-9104d1f4c259) ![pacific-e-2](https://github.com/begoniacommunity/list/assets/76614596/1187b634-919f-4682-a845-c0b032b89a61) |
+| [MNML Thin <sup>`(WearOS 2.xx+)`</sup>](https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlthin) | ![mnml-thin-1](https://github.com/reddxae/list/assets/76614596/f20619fa-a075-4e44-b960-1e7c19f6d41a) ![mnml-thin-2](https://github.com/reddxae/list/assets/76614596/636932a0-9741-4007-ba29-77757087dfa3) |
+| [Wave <sup>`(WearOS 2.xx+)`</sup>](https://play.google.com/store/apps/details?id=com.watchfacestudio.awfwave) | ![wave-1](https://github.com/reddxae/list/assets/76614596/ce01aeaf-beca-46ae-9f12-6b2ff7b2d2c8) ![wave-2](https://github.com/reddxae/list/assets/76614596/2a334a0b-6708-4093-bd0c-351f83800235) |
+| [Pacific E <sup>`(WearOS 2.xx+, не содержат цифрового варианта)`</sup>](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pacifice) | ![pacific-e](https://github.com/reddxae/list/assets/76614596/7dbeb0b4-b612-499a-9627-9104d1f4c259) ![pacific-e-2](https://github.com/reddxae/list/assets/76614596/1187b634-919f-4682-a845-c0b032b89a61) |
 
 </details>
 

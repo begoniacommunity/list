@@ -1,7 +1,6 @@
 <div align="center">
 
 **Подборка полезного софта**  
-<sup>от участников /b/egonia community :heartpulse:</sup> 
 </div>
 
 ## Навигация по спискам:
