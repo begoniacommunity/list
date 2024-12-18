@@ -70,26 +70,24 @@ ya.ru##.alice-fab
 
 </details>
 
-* [SponsorBlock.](https://sponsor.ajay.app/) Автоматически пропускает любые рекламные секции в видео на YouTube. Полностью community-powered, вы можете сами добавлять метки и загружать рекламные секции для пропуска по своему усмотрению.
-* [Track24.](https://chrome.google.com/webstore/detail/track24ru/lfijgegefgcgbfcgjgnhnkclenhfijhk?hl=ru) Удобное расширение для отслеживания посылок в браузере.
-* [Tampermonkey.](https://tampermonkey.net/index.php?locale=ru) Реализация работы пользовательских скриптов в вашем браузере.  
+* [SponsorBlock.](https://sponsor.ajay.app/) Автоматически пропускает любые рекламные секции в видео на YouTube. Это community-powered проект, т.е. вы можете самостоятельно отмечать секции для пропуска, которые будут распространены для всех пользователей.
+* [Tampermonkey.](https://tampermonkey.net/index.php?locale=ru) Пользовательские скрипты для страниц.  
 
 Скрипты/расширения для Tampermonkey:  
 <sup>(кликайте по названию для установки; везде поддерживается авто-обновление)</sup>
 
 1. [AdGuardExtra.](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js) *Блокировка попыток обхода блокировки рекламы...* Да, именно так. Работает для YouTube [и многих других сайтов.](https://github.com/AdguardTeam/AdGuardExtra#websites-where-adguard-extra-can-be-useful)
-2. [Voice-Over-Translation.](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) Автоматический закадровый перевод видео в реальном времени, свободный "порт" из Яндекс Браузера.
+2. [Voice-Over-Translation.](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) Автоматический закадровый перевод видео в реальном времени, свободный порт из Яндекс Браузера.
 
 * [ClearURLs.](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) Автоматически очищает URL страницы от трекинг-содержимого.
-* [Dark Reader.](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Хорошее расширения для автоматической перекраски сайтов в тёмные тона. Маст-хев, множество настроек.
-* [Search by Image.](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) Приятный интерфейс, большое количество сервисов для поиска, можно добавлять свои. Небольшой дополнительный функционал. Пробуйте.
-* [Bing AI Plus.](https://github.com/patrik-martinko/app-bing-ai-plus) Позволяет модифицировать внешний вид страницы чатбота, снимает ограничение на количество символов.
-* [User-Agent Switcher and Manager.](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) Позволяет быстро подменить useragent вашего девайса.
-* [Old Genius (Song Page Switcher).](https://chrome.google.com/webstore/detail/old-genius-song-page-swit/dgdnchkkkknfdahaehnkfifchgnoidjj) Автоматически и без задержек (релоада) возвращает старую версию дизайна страницы текста на Genius.com.
+* [Dark Reader.](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Динамическая покраска сайтов в тёмные тона. Маст-хев, множество настроек.
+* [Search by Image.](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) Поиск по картинке. Предустановлено большое количество сервисов для поиска, также можно добавлять свои.
+* [User-Agent Switcher and Manager.](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) Позволяет быстро подменить user-agent<sup>[`ℹ️`](https://ru.wikipedia.org/wiki/User_agent)</sup> вашего девайса.
+* [Old Genius (Song Page Switcher).](https://chrome.google.com/webstore/detail/old-genius-song-page-swit/dgdnchkkkknfdahaehnkfifchgnoidjj) Автоматически возвращает старую версию дизайна страницы текста на [Genius.](https://genius.com) В скором времени поддержка старой версии страницы может быть отключена со стороны сайта.
 * [Stylus.](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) Пользовательские стили для сайтов.
-* [TosDR.](https://github.com/tosdr/browser-extensions) Расширение одноимённого сайта (описание есть в соответствующей категории).
+* [TosDR.](https://github.com/tosdr/browser-extensions) Расширение одноимённого сайта.<sup>[`ℹ️`](https://github.com/reddxae/list/blob/main/list/useful.md#:~:text=%D1%81%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B0.-,tosdr,-.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%B2%D1%8F%D0%B5%D1%82%20%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D1%83%D1%8E%20%D0%B8%D0%BB%D0%B8)</sup>
 * [Web Archives.](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao) Быстрый переход к сохранённым копиям сайта/его версиям на archive.org (Wayback Machine).
-* [Enable Right Click & Copy.](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika) Добавляет возможность выделять и копировать текст/контент на сайтах, которые это блокируют. Параметр Enable Copy разрешает копировать текст; Absolute Mode отключает защиту от копирования любого контента.
+* [Allow Right Click.](https://webextension.org/listing/allow-right-click.html) Добавляет возможность выделять и копировать текст/контент на сайтах, которые это блокируют.
 * [SponsorBlock.](https://sponsor.ajay.app/) Автоматический пропуск рекламы в видео, отрывки (таймкоды) которой указывает сообщество.
 * [Return YouTube Dislike.](https://www.returnyoutubedislike.com/) Возвращает отображение количества дизлайков под видео.<sup>[`ℹ️`](https://www.returnyoutubedislike.com/faq)</sup>
 * [Enchancer for YouTube.](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) Кастомизация страницы и плеера YouTube.
@@ -129,7 +127,14 @@ ya.ru##.alice-fab
 
 </details>
 
+* [БотНадзор для VK.](https://botnadzor.org/docs/extension) Подсвечивание комментариев от кремлеботов. 
+
 ### Темы
 
-* [Just Black.](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab?hl=ru) Простая и минималистичная тема в тёмных тонах от Google.  
+* [Just Black.](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab?hl=ru) Простая и минималистичная тема в тёмных тонах для браузеров на Chromium.  
 * *(Windows 11)* Включаем эффект Mica в Microsoft Edge: переходим по ссылке `edge://flags/#edge-visual-rejuv-mica`, активируем флаг, перезапускаем браузер.
+* [WaveFox.](https://github.com/QNetITQ/WaveFox) Кастомизация внешнего вида Firefox.
+* [Geckium.](https://github.com/angelbruni/Geckium) CSS/JS тема для Firefox в стиле старых версий Chrome (~1.0-58).
+
+### Прочие надстройки
+* [Bettefox.](https://github.com/yokoffing/Betterfox) Подборка твиков для Firefox, ориентированных на производительность.
