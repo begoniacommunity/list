@@ -107,19 +107,23 @@ ya.ru##.alice-fab
 #progress.ytd-thumbnail-overlay-resume-playback-renderer,
 #progress.yt-page-navigation-progress,
 .yt-spec-avatar-shape--live-ring::after,
-.YtProgressBarLineProgressBarPlayed {
+.ytProgressBarLineProgressBarPlayedRefresh {
    background: #f03 !important;
    background-color: #f03 !important;
+}
+#yt-ringo2-svg_yt10 path:first-of-type {
+   fill: #f03 !important;
 }
 ```
 
 Исправляем пропорции превью на странице воспроизведения:
 
 ```css
-.html5-video-player {
-    background-size: contain !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
+.html5-video-player,
+.ytp-cued-thumbnail-overlay {
+   background-size: contain !important;
+   background-position: center !important;
+   background-repeat: no-repeat !important;
 }
 ```
 
